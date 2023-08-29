@@ -4,7 +4,6 @@
   "description": "An HTML5 VNC client",
   "browser": "lib/rfb",
   "directories": {
-    "lib": "lib",
     "doc": "docs",
     "test": "tests"
   },
@@ -20,8 +19,6 @@
   ],
   "scripts": {
     "lint": "eslint app core po/po2js po/xgettext-html tests utils",
-    "test": "karma start karma.conf.js",
-    "prepublish": "node ./utils/use_require.js --as commonjs --clean",
     "build": "webpack --config webpack.config.js",
     "build-production": "cross-env NODE_ENV=production webpack --config webpack.config.js"
   },
@@ -93,5 +90,6 @@
     "rfb",
     "novnc",
     "websockify"
-  ]
+  ],
+  "main": "karma.conf.js"
 }
