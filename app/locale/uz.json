@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Boshqarish panelini tugmachalarni bosish orqali almashtirish",
     "Render Native Resolution": "Native rezolyutsiyani ko'rsatish",
     "Keyboard Shortcuts": "Klaviatura yorliqlari",
-    "Enable KasmVNC Keyboard Shortcuts": "KasmVNC klaviatura yorliqlarini yoqish",
+    "Enable npdVNC Keyboard Shortcuts": "npdVNC klaviatura yorliqlarini yoqish",
     "1 - Toggle Control Panel": "1 - Boshqaruv panelini almashtirish",
     "2 - Toggle Game Pointer Mode": "2 - o'yin ko'rsatkichi rejimini almashtirish",
     "3 - Toggle Pointer Lock": "3 - Pointer qulfini almashtirish",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Video rejimi balandligi:",
     "Documentation": "Hujjatlar",
     "Drag Viewport": "Ko'rish oynasini sudrab olib boring",
-    "KasmVNC encountered an error:": "KasmVNC xatolikka duch keldi:"
+    "npdVNC encountered an error:": "npdVNC xatolikka duch keldi:"
 }

@@ -260,8 +260,8 @@ msgstr "რენდერი Native Resolution"
 msgid "Keyboard Shortcuts"
 msgstr "კლავიატურის მალსახმობები"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "ჩართეთ KasmVNC კლავიატურის მალსახმობები"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "ჩართეთ npdVNC კლავიატურის მალსახმობები"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - საკონტროლო პანელის გადართვა"
@@ -350,5 +350,5 @@ msgstr "დოკუმენტაცია"
 msgid "Drag Viewport"
 msgstr "გადაათრიეთ ხედის პორტი"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC შეექმნა შეცდომა:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC შეექმნა შეცდომა:"

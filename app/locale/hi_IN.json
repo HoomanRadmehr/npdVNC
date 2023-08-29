@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "कीस्ट्रोक्स के माध्यम से नियंत्रण कक्ष टॉगल करें",
     "Render Native Resolution": "मूलनिवासी संकल्प प्रस्तुत करें",
     "Keyboard Shortcuts": "कुंजीपटल अल्प मार्ग",
-    "Enable KasmVNC Keyboard Shortcuts": "KasmVNC कीबोर्ड शॉर्टकट सक्षम करें",
+    "Enable npdVNC Keyboard Shortcuts": "npdVNC कीबोर्ड शॉर्टकट सक्षम करें",
     "1 - Toggle Control Panel": "1 - टॉगल कंट्रोल पैनल",
     "2 - Toggle Game Pointer Mode": "2 - टॉगल गेम पॉइंटर मोड",
     "3 - Toggle Pointer Lock": "3 - टॉगल पॉइंटर लॉक",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "वीडियो मोड ऊंचाई:",
     "Documentation": "दस्तावेज़ीकरण",
     "Drag Viewport": "व्यूपोर्ट खींचें",
-    "KasmVNC encountered an error:": "KasmVNC में एक त्रुटि आई:"
+    "npdVNC encountered an error:": "npdVNC में एक त्रुटि आई:"
 }

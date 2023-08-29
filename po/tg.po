@@ -260,8 +260,8 @@ msgstr "Резолюсияи маҳаллӣ"
 msgid "Keyboard Shortcuts"
 msgstr "Миёнбурҳои клавиатура"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Миёнбурҳои клавиатураи KasmVNC-ро фаъол созед"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Миёнбурҳои клавиатураи npdVNC-ро фаъол созед"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Гузариш ба панели идоракунӣ"
@@ -350,5 +350,5 @@ msgstr "Ҳуҷҷатҳо"
 msgid "Drag Viewport"
 msgstr "Кашолакунии Viewport"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC ба хатогӣ дучор шуд:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC ба хатогӣ дучор шуд:"

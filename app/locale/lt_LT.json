@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Perjungti valdymo skydelį klavišų paspaudimais",
     "Render Native Resolution": "Pateikti vietinę skiriamąją gebą",
     "Keyboard Shortcuts": "Klaviatūros nuorodos",
-    "Enable KasmVNC Keyboard Shortcuts": "Įgalinti KasmVNC sparčiuosius klavišus",
+    "Enable npdVNC Keyboard Shortcuts": "Įgalinti npdVNC sparčiuosius klavišus",
     "1 - Toggle Control Panel": "1 – perjungti valdymo skydelį",
     "2 - Toggle Game Pointer Mode": "2 – perjungti žaidimo žymeklio režimą",
     "3 - Toggle Pointer Lock": "3 – perjungti žymeklio užraktą",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Vaizdo režimo aukštis:",
     "Documentation": "Dokumentacija",
     "Drag Viewport": "Drag Viewport",
-    "KasmVNC encountered an error:": "KasmVNC susidūrė su klaida:"
+    "npdVNC encountered an error:": "npdVNC susidūrė su klaida:"
 }

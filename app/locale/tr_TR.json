@@ -94,7 +94,7 @@
     "Toggle Control Panel via Keystrokes": "Kontrol Panelini Tuş Vuruşlarıyla Değiştir",
     "Render Native Resolution": "Yerel Çözünürlüğü Oluştur",
     "Keyboard Shortcuts": "Klavye kısayolları",
-    "Enable KasmVNC Keyboard Shortcuts": "KasmVNC Klavye Kısayollarını Etkinleştir",
+    "Enable npdVNC Keyboard Shortcuts": "npdVNC Klavye Kısayollarını Etkinleştir",
     "1 - Toggle Control Panel": "1 - Kontrol Panelini Değiştir",
     "2 - Toggle Game Pointer Mode": "2 - Oyun İşaretçisi Modunu Değiştir",
     "3 - Toggle Pointer Lock": "3 - İşaretçi Kilidini Değiştir",
@@ -124,5 +124,5 @@
     "Video Mode Height:": "Video Modu Yüksekliği:",
     "Documentation": "Belgeler",
     "Drag Viewport": "Görüntü Penceresini Sürükleyin",
-    "KasmVNC encountered an error:": "KasmVNC bir hatayla karşılaştı:"
+    "npdVNC encountered an error:": "npdVNC bir hatayla karşılaştı:"
 }

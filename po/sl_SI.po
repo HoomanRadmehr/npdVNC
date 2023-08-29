@@ -260,8 +260,8 @@ msgstr "Upodobitev izvorne ločljivosti"
 msgid "Keyboard Shortcuts"
 msgstr "Bližnjice na tipkovnici"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Omogoči bližnjice na tipkovnici KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Omogoči bližnjice na tipkovnici npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Preklop nadzorne plošče"
@@ -350,5 +350,5 @@ msgstr "Dokumentacija"
 msgid "Drag Viewport"
 msgstr "Povlecite vidno polje"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC je naletel na napako:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC je naletel na napako:"

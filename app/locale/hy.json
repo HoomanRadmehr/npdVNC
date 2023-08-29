@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Փոխարկել կառավարման վահանակը ստեղնաշարի միջոցով",
     "Render Native Resolution": "Ներկայացնել հայրենի բանաձեւը",
     "Keyboard Shortcuts": "Ստեղնաշարի դյուրանցումներ",
-    "Enable KasmVNC Keyboard Shortcuts": "Միացնել KasmVNC ստեղնաշարի դյուրանցումները",
+    "Enable npdVNC Keyboard Shortcuts": "Միացնել npdVNC ստեղնաշարի դյուրանցումները",
     "1 - Toggle Control Panel": "1 - միացնել կառավարման վահանակը",
     "2 - Toggle Game Pointer Mode": "2 - Փոխարկել խաղի ցուցիչի ռեժիմը",
     "3 - Toggle Pointer Lock": "3 - Փոխարկել ցուցիչի կողպեքը",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Տեսանյութի ռեժիմի բարձրություն.",
     "Documentation": "Փաստաթղթեր",
     "Drag Viewport": "Քաշել տեսադաշտը",
-    "KasmVNC encountered an error:": "KasmVNC-ն սխալ է հանդիպել."
+    "npdVNC encountered an error:": "npdVNC-ն սխալ է հանդիպել."
 }

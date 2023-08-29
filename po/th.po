@@ -260,8 +260,8 @@ msgstr "เรนเดอร์ Native Resolution"
 msgid "Keyboard Shortcuts"
 msgstr "แป้นพิมพ์ลัด"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "เปิดใช้งานแป้นพิมพ์ลัด KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "เปิดใช้งานแป้นพิมพ์ลัด npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - สลับแผงควบคุม"
@@ -350,5 +350,5 @@ msgstr "เอกสาร"
 msgid "Drag Viewport"
 msgstr "ลากวิวพอร์ต"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC พบข้อผิดพลาด:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC พบข้อผิดพลาด:"

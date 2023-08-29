@@ -1,6 +1,6 @@
 /*
- * KasmVNC: HTML5 VNC client
- * Copyright (C) 2020 Kasm Technologies
+ * npdVNC: HTML5 VNC client
+ * Copyright (C) 2020 npd Technologies
  * Copyright (C) 2019 The noVNC Authors
  * Licensed under MPL 2.0 (see LICENSE.txt)
  *
@@ -453,7 +453,7 @@ export default class Display {
                 this._targetCtx.drawImage(img, x, y);
             }
         } catch (error) {
-            Log.Error('Invalid image recieved.'); //KASM-2090
+            Log.Error('Invalid image recieved.'); //npd-2090
         }
     }
 

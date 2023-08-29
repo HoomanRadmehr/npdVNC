@@ -260,8 +260,8 @@ msgstr "Render Resolution"
 msgid "Keyboard Shortcuts"
 msgstr "Ath-ghoiridean meur-chlàr"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Cuir an comas ath-ghoiridean meur-chlàr KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Cuir an comas ath-ghoiridean meur-chlàr npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Tog Pannal Smachd"
@@ -350,5 +350,5 @@ msgstr "Sgrìobhainn"
 msgid "Drag Viewport"
 msgstr "Slaod am port-seallaidh"
 
-msgid "KasmVNC encountered an error:"
-msgstr "Thachair KasmVNC ri mearachd:"
+msgid "npdVNC encountered an error:"
+msgstr "Thachair npdVNC ri mearachd:"

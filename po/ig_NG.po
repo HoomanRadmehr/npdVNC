@@ -260,8 +260,8 @@ msgstr "Mepụta mkpebi obodo"
 msgid "Keyboard Shortcuts"
 msgstr "Ụzọ mkpirisi ahụigodo"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Kwado ụzọ mkpirisi ahụigodo KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Kwado ụzọ mkpirisi ahụigodo npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Gbanwee Ogwe njikwa"
@@ -350,5 +350,5 @@ msgstr "Akwụkwọ"
 msgid "Drag Viewport"
 msgstr "Dọrọ nlegharị anya"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC zutere mperi:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC zutere mperi:"

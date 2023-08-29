@@ -260,8 +260,8 @@ msgstr "Native rezolyutsiyani ko'rsatish"
 msgid "Keyboard Shortcuts"
 msgstr "Klaviatura yorliqlari"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "KasmVNC klaviatura yorliqlarini yoqish"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "npdVNC klaviatura yorliqlarini yoqish"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Boshqaruv panelini almashtirish"
@@ -350,5 +350,5 @@ msgstr "Hujjatlar"
 msgid "Drag Viewport"
 msgstr "Ko'rish oynasini sudrab olib boring"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC xatolikka duch keldi:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC xatolikka duch keldi:"

@@ -260,8 +260,8 @@ msgstr "Kết xuất độ phân giải gốc"
 msgid "Keyboard Shortcuts"
 msgstr "Các phím tắt bàn phím"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Bật phím tắt KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Bật phím tắt npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Chuyển đổi bảng điều khiển"
@@ -350,5 +350,5 @@ msgstr "Tài liệu"
 msgid "Drag Viewport"
 msgstr "Kéo khung nhìn"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC gặp lỗi:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC gặp lỗi:"

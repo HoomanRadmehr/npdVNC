@@ -371,8 +371,8 @@ msgstr "Vykreslit nativní rozlišení"
 msgid "Keyboard Shortcuts"
 msgstr "Klávesové zkratky"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Povolit klávesové zkratky KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Povolit klávesové zkratky npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Přepnout ovládací panel"
@@ -461,5 +461,5 @@ msgstr "Dokumentace"
 msgid "Drag Viewport"
 msgstr "Přetáhnout výřez"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC narazil na chybu:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC narazil na chybu:"

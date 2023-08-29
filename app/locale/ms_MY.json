@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Togol Panel Kawalan melalui Ketukan Kekunci",
     "Render Native Resolution": "Render Native Resolution",
     "Keyboard Shortcuts": "Pintasan Papan Kekunci",
-    "Enable KasmVNC Keyboard Shortcuts": "Dayakan Pintasan Papan Kekunci KasmVNC",
+    "Enable npdVNC Keyboard Shortcuts": "Dayakan Pintasan Papan Kekunci npdVNC",
     "1 - Toggle Control Panel": "1 - Togol Panel Kawalan",
     "2 - Toggle Game Pointer Mode": "2 - Togol Mod Penunjuk Permainan",
     "3 - Toggle Pointer Lock": "3 - Togol Kunci Penunjuk",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Ketinggian Mod Video:",
     "Documentation": "Dokumentasi",
     "Drag Viewport": "Seret Viewport",
-    "KasmVNC encountered an error:": "KasmVNC mengalami ralat:"
+    "npdVNC encountered an error:": "npdVNC mengalami ralat:"
 }

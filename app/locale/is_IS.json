@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Slökktu á stjórnborði með ásláttum",
     "Render Native Resolution": "Gefðu upprunalega upplausn",
     "Keyboard Shortcuts": "Flýtivísar",
-    "Enable KasmVNC Keyboard Shortcuts": "Virkja KasmVNC flýtilykla",
+    "Enable npdVNC Keyboard Shortcuts": "Virkja npdVNC flýtilykla",
     "1 - Toggle Control Panel": "1 - Skiptu um stjórnborð",
     "2 - Toggle Game Pointer Mode": "2 - Skiptu um leikbendiham",
     "3 - Toggle Pointer Lock": "3 - Víxla bendilás",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Hæð myndbandshams:",
     "Documentation": "Skjölun",
     "Drag Viewport": "Dragðu útsýnisgátt",
-    "KasmVNC encountered an error:": "KasmVNC rakst á villu:"
+    "npdVNC encountered an error:": "npdVNC rakst á villu:"
 }

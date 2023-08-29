@@ -176,9 +176,9 @@ export function eraseSetting(name) {
     }
 }
 
-//Are we running inside the Kasm VDI Framework
-export function isInsideKasmVDI() {
-    //TODO: We should use a more explicit way to detect we are running inside KasmVDI
+//Are we running inside the npd VDI Framework
+export function isInsidenpdVDI() {
+    //TODO: We should use a more explicit way to detect we are running inside npdVDI
     try {
         return window.self !== window.top;
     } catch (e) {

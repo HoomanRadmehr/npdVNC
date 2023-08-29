@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Aldatu kontrol panela tekla sakatuen bidez",
     "Render Native Resolution": "Errendatu jatorrizko ebazpena",
     "Keyboard Shortcuts": "Teklatuko lasterbideak",
-    "Enable KasmVNC Keyboard Shortcuts": "Gaitu KasmVNC teklatu-lasterbideak",
+    "Enable npdVNC Keyboard Shortcuts": "Gaitu npdVNC teklatu-lasterbideak",
     "1 - Toggle Control Panel": "1 - Aldatu kontrol panela",
     "2 - Toggle Game Pointer Mode": "2 - Aldatu joko erakuslea modua",
     "3 - Toggle Pointer Lock": "3 - Erakuslea blokeatzea",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Bideo moduaren altuera:",
     "Documentation": "Dokumentazioa",
     "Drag Viewport": "Arrastatu ikuspegia",
-    "KasmVNC encountered an error:": "KasmVNC-k errore bat aurkitu du:"
+    "npdVNC encountered an error:": "npdVNC-k errore bat aurkitu du:"
 }

@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Chuyển đổi Bảng điều khiển thông qua tổ hợp phím",
     "Render Native Resolution": "Kết xuất độ phân giải gốc",
     "Keyboard Shortcuts": "Các phím tắt bàn phím",
-    "Enable KasmVNC Keyboard Shortcuts": "Bật phím tắt KasmVNC",
+    "Enable npdVNC Keyboard Shortcuts": "Bật phím tắt npdVNC",
     "1 - Toggle Control Panel": "1 - Chuyển đổi bảng điều khiển",
     "2 - Toggle Game Pointer Mode": "2 - Chuyển đổi chế độ con trỏ trò chơi",
     "3 - Toggle Pointer Lock": "3 - Chuyển đổi khóa con trỏ",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Chiều cao chế độ video:",
     "Documentation": "Tài liệu",
     "Drag Viewport": "Kéo khung nhìn",
-    "KasmVNC encountered an error:": "KasmVNC gặp lỗi:"
+    "npdVNC encountered an error:": "npdVNC gặp lỗi:"
 }

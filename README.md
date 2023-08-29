@@ -1,20 +1,20 @@
-## KasmVNC Web Front-End
+## npdVNC Web Front-End
 
-<a href="https://kasmweb.com"><img src="https://kasm-static-content.s3.amazonaws.com/logo_kasm.png" width="300"><a/>
+<a href="https://npdweb.com"><img src="https://npd-static-content.s3.amazonaws.com/logo_npd.png" width="300"><a/>
 
-KasmVNC provides remote web-based access to a Desktop or application. While VNC is in the name, KasmVNC differs from other VNC variants such as TigerVNC, RealVNC, and TurboVNC. KasmVNC has broken from the RFB specification which defines VNC, in order to support modern technologies and increase security. KasmVNC is accessed by users from any modern browser and does not support legacy VNC viewer applications. KasmVNC uses a modern YAML based configuration at the server and user level, allowing for ease of management.
+npdVNC provides remote web-based access to a Desktop or application. While VNC is in the name, npdVNC differs from other VNC variants such as TigerVNC, RealVNC, and TurboVNC. npdVNC has broken from the RFB specification which defines VNC, in order to support modern technologies and increase security. npdVNC is accessed by users from any modern browser and does not support legacy VNC viewer applications. npdVNC uses a modern YAML based configuration at the server and user level, allowing for ease of management.
 
-[Kasm Technologies](https://www.kasmweb.com) developed Kasm Workspaces, the Containerized Streaming Platform. Kasm has open-sourced the Workspace docker images, which include containerized [full desktops and apps](https://github.com/kasmtech/workspaces-images) and [base images](https://github.com/kasmtech/workspaces-core-images) intended for developers to create custimized streaming containers. These containers can be used standalone or within the [Kasm Workspaces Platform](https://www.kasmweb.com) which provides a full Enterprise feature set.
+[npd Technologies](https://www.npdweb.com) developed npd Workspaces, the Containerized Streaming Platform. npd has open-sourced the Workspace docker images, which include containerized [full desktops and apps](https://github.com/npdtech/workspaces-images) and [base images](https://github.com/npdtech/workspaces-core-images) intended for developers to create custimized streaming containers. These containers can be used standalone or within the [npd Workspaces Platform](https://www.npdweb.com) which provides a full Enterprise feature set.
 
 ## News/Help/Contact
 
-For support with KasmVNC, post on the [KasmVNC Project](https://github.com/kasmtech/KasmVNC).
+For support with npdVNC, post on the [npdVNC Project](https://github.com/npdtech/npdVNC).
 
 ## Documentation
 
-**Do not use the README from the master branch**, unless you are compiling KasmVNC yourself from the tip of master. Use the documentation for your specific release.
+**Do not use the README from the master branch**, unless you are compiling npdVNC yourself from the tip of master. Use the documentation for your specific release.
 
-  - [KasmVNC 1.0.0 Documentation](https://www.kasmweb.com/kasmvnc/docs/1.0.0/index.html)
+  - [npdVNC 1.0.0 Documentation](https://www.npdweb.com/npdvnc/docs/1.0.0/index.html)
 
   For beta releases prior to version 1.0.0, use the README in this github project on the tagged commit for that release.
 
@@ -24,7 +24,7 @@ For support with KasmVNC, post on the [KasmVNC Project](https://github.com/kasmt
   - Automatic mixing of webp and jpeg based on CPU availability on server
   - WebRTC UDP Transit
   - Lossless QOI Image format for Local LAN
-  - [Dynamic jpeg/webp image coompression](https://github.com/kasmtech/KasmVNC/wiki/Video-Rendering-Options#dynamic-image-quality) quality settings based on screen change rates
+  - [Dynamic jpeg/webp image coompression](https://github.com/npdtech/npdVNC/wiki/Video-Rendering-Options#dynamic-image-quality) quality settings based on screen change rates
   - Seemless clipboard support (on Chromium based browsers)
   - Binary clipboard support for text, images, and formatted text (on Chromium based browsers)
   - Allow client to set/change most configuration settings
@@ -38,22 +38,22 @@ For support with KasmVNC, post on the [KasmVNC Project](https://github.com/kasmt
 
 ## Screenshots
 
-<img src="https://5856039.fs1.hubspotusercontent-na1.net/hubfs/5856039/KasmVNC_Screenshot_Features.png" width=600>
+<img src="https://5856039.fs1.hubspotusercontent-na1.net/hubfs/5856039/npdVNC_Screenshot_Features.png" width=600>
 
 
 ## Browser Requirements
 
-For a full listing of features and minimum browser version required for each browser, see this [KasmVNC Wiki Article](https://github.com/kasmtech/KasmVNC/wiki/Browser-Support).
+For a full listing of features and minimum browser version required for each browser, see this [npdVNC Wiki Article](https://github.com/npdtech/npdVNC/wiki/Browser-Support).
 
 
 ## Server Requirements
 
-KasmVNC is an absolute requirement. This fork of noVNC is explicitly modified to work with KasmVNC and breaks the RFB specification. It will not work with legacy VNC servers.
+npdVNC is an absolute requirement. This fork of noVNC is explicitly modified to work with npdVNC and breaks the RFB specification. It will not work with legacy VNC servers.
 
 ## Running noVNC
 
-KasmVNC has a built in web server and the web code is baked into KasmVNC. There are no instructions to provide, just install KasmVNC follow the instructions to configure and run it.
+npdVNC has a built in web server and the web code is baked into npdVNC. There are no instructions to provide, just install npdVNC follow the instructions to configure and run it.
 
 ## Development
 
-The noVNC code is webpacked for performance reasons. The CI pipeline in the KasmVNC project is responsible for building the web code and packaging it with KasmVNC.
+The noVNC code is webpacked for performance reasons. The CI pipeline in the npdVNC project is responsible for building the web code and packaging it with npdVNC.

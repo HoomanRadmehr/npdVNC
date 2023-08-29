@@ -371,8 +371,8 @@ msgstr "Yerel Çözünürlüğü Oluştur"
 msgid "Keyboard Shortcuts"
 msgstr "Klavye kısayolları"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "KasmVNC Klavye Kısayollarını Etkinleştir"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "npdVNC Klavye Kısayollarını Etkinleştir"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Kontrol Panelini Değiştir"
@@ -461,5 +461,5 @@ msgstr "Belgeler"
 msgid "Drag Viewport"
 msgstr "Görüntü Penceresini Sürükleyin"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC bir hatayla karşılaştı:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC bir hatayla karşılaştı:"

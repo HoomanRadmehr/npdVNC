@@ -260,8 +260,8 @@ msgstr "Gefðu upprunalega upplausn"
 msgid "Keyboard Shortcuts"
 msgstr "Flýtivísar"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Virkja KasmVNC flýtilykla"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Virkja npdVNC flýtilykla"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Skiptu um stjórnborð"
@@ -350,5 +350,5 @@ msgstr "Skjölun"
 msgid "Drag Viewport"
 msgstr "Dragðu útsýnisgátt"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC rakst á villu:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC rakst á villu:"

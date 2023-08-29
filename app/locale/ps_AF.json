@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "ﺉړﮐ ﻝﺪﺑ ﻞﻨﯿﭘ ﻝﻭﺮټﻨﮐ ﺩ ﯤﺭﻻ﻿ ﻪﻟ ﮎﻭﺮټﺴﯿﮐ ﺩ",
     "Render Native Resolution": "ﻝﻮﮐ ﯤﺪﻧﺍړﻭ ﻞﺣ ﻲﻠﺻﺍ ﺩ",
     "Keyboard Shortcuts": "ﻪﻧﻮټﮐ ټﺭﺎﺷ ډﺭﻮﺑ ﯽﮐ",
-    "Enable KasmVNC Keyboard Shortcuts": "KasmVNC ﺉړﮐ ﻝﺎﻌﻓ ﻪﻧﻮټﮐ ټﺭﺎﺷ ډﺭﻮﺑ ﯽﮐ",
+    "Enable npdVNC Keyboard Shortcuts": "npdVNC ﺉړﮐ ﻝﺎﻌﻓ ﻪﻧﻮټﮐ ټﺭﺎﺷ ډﺭﻮﺑ ﯽﮐ",
     "1 - Toggle Control Panel": "ﺉړﮐ ﻝﺪﺑ ﻞﻨﯿﭘ ﻝﻭﺮټﻨﮐ ﺩ - 1",
     "2 - Toggle Game Pointer Mode": "ﺉړﮐ ﻝﺪﺑ ﺖﻟﺎﺣ ﺮټﻨﯾﻮﭘ ﯥﺑﻮﻟ ﺩ - 2",
     "3 - Toggle Pointer Lock": "ﺉړﮐ ﻝﺪﺑ ﮎﻻ﻿ ﺮټﻨﺋﺍﻮﭘ ﺩ - 3",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "ﯽﻟﺍﻭړﻮﻟ ﺖﻟﺎﺣ ﻮﯾډﯾﻭ ﺩ",
     "Documentation": "ﺩﺎﻨﺳﺍ",
     "Drag Viewport": "ګﯾﺭډ ﺪﯿﻟ ﺪﯿﻟ ﺩ",
-    "KasmVNC encountered an error:": "KasmVNC ﻮﺷ ﺦﻣ ﻩﺮﺳ ﯥﻨﺗﻭﺮﯧﺗ ﯤﻮﯾ ﺩ:"
+    "npdVNC encountered an error:": "npdVNC ﻮﺷ ﺦﻣ ﻩﺮﺳ ﯥﻨﺗﻭﺮﯧﺗ ﯤﻮﯾ ﺩ:"
 }

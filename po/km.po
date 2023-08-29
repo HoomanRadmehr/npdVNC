@@ -260,8 +260,8 @@ msgstr "បង្ហាញដំណោះស្រាយដើម"
 msgid "Keyboard Shortcuts"
 msgstr "ផ្លូវកាត់ក្តារចុច"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "បើកផ្លូវកាត់ក្តារចុច KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "បើកផ្លូវកាត់ក្តារចុច npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - បិទបើកផ្ទាំងបញ្ជា"
@@ -350,5 +350,5 @@ msgstr "ឯកសារ"
 msgid "Drag Viewport"
 msgstr "ច្រកទិដ្ឋភាពអូស"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC បានជួបប្រទះបញ្ហាមួយ៖"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC បានជួបប្រទះបញ្ហាមួយ៖"

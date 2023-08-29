@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Preklopi nadzorno ploščo s tipkami",
     "Render Native Resolution": "Upodobitev izvorne ločljivosti",
     "Keyboard Shortcuts": "Bližnjice na tipkovnici",
-    "Enable KasmVNC Keyboard Shortcuts": "Omogoči bližnjice na tipkovnici KasmVNC",
+    "Enable npdVNC Keyboard Shortcuts": "Omogoči bližnjice na tipkovnici npdVNC",
     "1 - Toggle Control Panel": "1 - Preklop nadzorne plošče",
     "2 - Toggle Game Pointer Mode": "2 - Preklop načina kazalca igre",
     "3 - Toggle Pointer Lock": "3 - Preklop zaklepanja kazalca",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Višina video načina:",
     "Documentation": "Dokumentacija",
     "Drag Viewport": "Povlecite vidno polje",
-    "KasmVNC encountered an error:": "KasmVNC je naletel na napako:"
+    "npdVNC encountered an error:": "npdVNC je naletel na napako:"
 }

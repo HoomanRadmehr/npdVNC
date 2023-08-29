@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Панели идоракуниро ба воситаи тугмачаҳо иваз кунед",
     "Render Native Resolution": "Резолюсияи маҳаллӣ",
     "Keyboard Shortcuts": "Миёнбурҳои клавиатура",
-    "Enable KasmVNC Keyboard Shortcuts": "Миёнбурҳои клавиатураи KasmVNC-ро фаъол созед",
+    "Enable npdVNC Keyboard Shortcuts": "Миёнбурҳои клавиатураи npdVNC-ро фаъол созед",
     "1 - Toggle Control Panel": "1 - Гузариш ба панели идоракунӣ",
     "2 - Toggle Game Pointer Mode": "2 - Гузариш ба ҳолати нишондиҳандаи бозӣ",
     "3 - Toggle Pointer Lock": "3 - Гузариш ба қулфи ишора",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Бандии ҳолати видео:",
     "Documentation": "Ҳуҷҷатҳо",
     "Drag Viewport": "Кашолакунии Viewport",
-    "KasmVNC encountered an error:": "KasmVNC ба хатогӣ дучор шуд:"
+    "npdVNC encountered an error:": "npdVNC ба хатогӣ дучор шуд:"
 }

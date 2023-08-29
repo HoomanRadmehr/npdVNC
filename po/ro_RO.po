@@ -260,8 +260,8 @@ msgstr "Redare rezoluție nativă"
 msgid "Keyboard Shortcuts"
 msgstr "Comenzi rapide de la tastatură"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Activați comenzile rapide de la tastatură KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Activați comenzile rapide de la tastatură npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Comutați panoul de control"
@@ -350,5 +350,5 @@ msgstr "Documentație"
 msgid "Drag Viewport"
 msgstr "Trasați fereastra de vizualizare"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC a întâmpinat o eroare:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC a întâmpinat o eroare:"

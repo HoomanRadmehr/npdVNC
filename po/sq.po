@@ -260,8 +260,8 @@ msgstr "Render Native Resolution"
 msgid "Keyboard Shortcuts"
 msgstr "Shkurtoret e tastierës"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Aktivizo shkurtoret e tastierës KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Aktivizo shkurtoret e tastierës npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Ndrysho panelin e kontrollit"
@@ -350,5 +350,5 @@ msgstr "Dokumentacioni"
 msgid "Drag Viewport"
 msgstr "Zvarrit portin e shikimit"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC hasi në një gabim:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC hasi në një gabim:"

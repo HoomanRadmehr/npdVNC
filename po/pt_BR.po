@@ -349,8 +349,8 @@ msgstr "Renderizar resolução nativa"
 msgid "Keyboard Shortcuts"
 msgstr "Atalhos do teclado"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Ativar atalhos de teclado KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Ativar atalhos de teclado npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Alternar painel de controle"
@@ -439,5 +439,5 @@ msgstr "Documentação"
 msgid "Drag Viewport"
 msgstr "Arrastar janela de visualização"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC encontrou um erro:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC encontrou um erro:"

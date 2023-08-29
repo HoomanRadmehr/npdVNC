@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "ಕೀಸ್ಟ್ರೋಕ್u200cಗಳ ಮೂಲಕ ನಿಯಂತ್ರಣ ಫಲಕವನ್ನು ಟಾಗಲ್ ಮಾಡಿ",
     "Render Native Resolution": "ಸ್ಥಳೀಯ ರೆಸಲ್ಯೂಶನ್ ನಿರೂಪಿಸು",
     "Keyboard Shortcuts": "ಕೀಬೋರ್ಡ್ ಶಾರ್ಟ್u200cಕಟ್u200cಗಳು",
-    "Enable KasmVNC Keyboard Shortcuts": "KasmVNC ಕೀಬೋರ್ಡ್ ಶಾರ್ಟ್u200cಕಟ್u200cಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ",
+    "Enable npdVNC Keyboard Shortcuts": "npdVNC ಕೀಬೋರ್ಡ್ ಶಾರ್ಟ್u200cಕಟ್u200cಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ",
     "1 - Toggle Control Panel": "1 - ನಿಯಂತ್ರಣ ಫಲಕವನ್ನು ಟಾಗಲ್ ಮಾಡಿ",
     "2 - Toggle Game Pointer Mode": "2 - ಟಾಗಲ್ ಗೇಮ್ ಪಾಯಿಂಟರ್ ಮೋಡ್",
     "3 - Toggle Pointer Lock": "3 - ಟಾಗಲ್ ಪಾಯಿಂಟರ್ ಲಾಕ್",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "ವೀಡಿಯೊ ಮೋಡ್ ಎತ್ತರ:",
     "Documentation": "ದಾಖಲೆ",
     "Drag Viewport": "ಡ್ರ್ಯಾಗ್ ವ್ಯೂಪೋರ್ಟ್",
-    "KasmVNC encountered an error:": "KasmVNC ದೋಷವನ್ನು ಎದುರಿಸಿದೆ:"
+    "npdVNC encountered an error:": "npdVNC ದೋಷವನ್ನು ಎದುರಿಸಿದೆ:"
 }

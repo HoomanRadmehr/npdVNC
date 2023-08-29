@@ -260,8 +260,8 @@ msgstr "Risoluzione nativa del rendering"
 msgid "Keyboard Shortcuts"
 msgstr "Tasti rapidi"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Abilita le scorciatoie da tastiera di KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Abilita le scorciatoie da tastiera di npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Attiva/disattiva pannello di controllo"
@@ -350,5 +350,5 @@ msgstr "Documentazione"
 msgid "Drag Viewport"
 msgstr "Trascina finestra"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC ha rilevato un errore:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC ha rilevato un errore:"

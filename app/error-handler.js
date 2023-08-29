@@ -61,7 +61,7 @@
             document.getElementById('noVNC_fallback_error')
                 .classList.add("noVNC_open");
         } catch (exc) {
-            document.write("Kasm encountered an error.");
+            document.write("npd encountered an error.");
         }
         // Don't return true since this would prevent the error
         // from being printed to the browser console.

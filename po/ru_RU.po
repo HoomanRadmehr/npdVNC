@@ -377,8 +377,8 @@ msgstr "Визуализировать исходное разрешение"
 msgid "Keyboard Shortcuts"
 msgstr "Горячие клавиши"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Включить сочетания клавиш KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Включить сочетания клавиш npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Переключить панель управления"
@@ -467,5 +467,5 @@ msgstr "Документация"
 msgid "Drag Viewport"
 msgstr "Перетаскивание видового экрана"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC обнаружил ошибку:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC обнаружил ошибку:"

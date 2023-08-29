@@ -260,8 +260,8 @@ msgstr "Render Native Resolution"
 msgid "Keyboard Shortcuts"
 msgstr "Pikanäppäimet"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Ota KasmVNC-pikanäppäimet käyttöön"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Ota npdVNC-pikanäppäimet käyttöön"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Vaihda ohjauspaneelia"
@@ -350,5 +350,5 @@ msgstr "Dokumentointi"
 msgid "Drag Viewport"
 msgstr "Vedä näkymä"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC havaitsi virheen:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC havaitsi virheen:"

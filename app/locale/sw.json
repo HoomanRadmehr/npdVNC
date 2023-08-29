@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Geuza Paneli ya Kudhibiti kupitia Vibonyezo",
     "Render Native Resolution": "Toa Azimio la Asili",
     "Keyboard Shortcuts": "Njia za mkato za kibodi",
-    "Enable KasmVNC Keyboard Shortcuts": "Wezesha Njia za Mkato za Kibodi ya KasmVNC",
+    "Enable npdVNC Keyboard Shortcuts": "Wezesha Njia za Mkato za Kibodi ya npdVNC",
     "1 - Toggle Control Panel": "1 - Geuza Paneli ya Kudhibiti",
     "2 - Toggle Game Pointer Mode": "2 - Geuza Modi ya Kielekezi cha Mchezo",
     "3 - Toggle Pointer Lock": "3 - Geuza Kufuli la Vielekezi",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Urefu wa Modi ya Video:",
     "Documentation": "Nyaraka",
     "Drag Viewport": "Buruta Viewport",
-    "KasmVNC encountered an error:": "KasmVNC ilipata hitilafu:"
+    "npdVNC encountered an error:": "npdVNC ilipata hitilafu:"
 }

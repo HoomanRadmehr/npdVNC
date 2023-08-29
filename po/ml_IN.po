@@ -260,8 +260,8 @@ msgstr "റെൻഡർ നേറ്റീവ് റെസല്യൂഷൻ"
 msgid "Keyboard Shortcuts"
 msgstr "കീബോർഡ് കുറുക്കുവഴികൾ"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "KasmVNC കീബോർഡ് കുറുക്കുവഴികൾ പ്രവർത്തനക്ഷമമാക്കുക"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "npdVNC കീബോർഡ് കുറുക്കുവഴികൾ പ്രവർത്തനക്ഷമമാക്കുക"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - നിയന്ത്രണ പാനൽ ടോഗിൾ ചെയ്യുക"
@@ -350,5 +350,5 @@ msgstr "പ്രമാണീകരണം"
 msgid "Drag Viewport"
 msgstr "വ്യൂപോർട്ട് വലിച്ചിടുക"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC ഒരു പിശക് നേരിട്ടു:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC ഒരു പിശക് നേരിട്ടു:"

@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "「キーストロークによるコントロール パネルの切り替え」",
     "Render Native Resolution": "「ネイティブ解像度をレンダリング」",
     "Keyboard Shortcuts": "キーボードショートカット",
-    "Enable KasmVNC Keyboard Shortcuts": "「KasmVNC キーボード ショートカットを有効にする」",
+    "Enable npdVNC Keyboard Shortcuts": "「npdVNC キーボード ショートカットを有効にする」",
     "1 - Toggle Control Panel": "「1 - コントロール パネルの切り替え」",
     "2 - Toggle Game Pointer Mode": "「2 - ゲーム ポインター モードの切り替え」",
     "3 - Toggle Pointer Lock": "「3 - ポインターロックの切り替え」",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "「ビデオモードの高さ:」",
     "Documentation": "ドキュメンテーション",
     "Drag Viewport": "「ビューポートをドラッグ」",
-    "KasmVNC encountered an error:": "「KasmVNC でエラーが発生しました:」"
+    "npdVNC encountered an error:": "「npdVNC でエラーが発生しました:」"
 }

@@ -260,8 +260,8 @@ msgstr "Render Native Resolution"
 msgid "Keyboard Shortcuts"
 msgstr "Комбинация от клавиши"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Активиране на клавишните комбинации на KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Активиране на клавишните комбинации на npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 – Превключване на контролния панел"
@@ -350,5 +350,5 @@ msgstr "документация"
 msgid "Drag Viewport"
 msgstr "Изглед с плъзгане"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC откри грешка:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC откри грешка:"

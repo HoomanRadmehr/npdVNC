@@ -260,8 +260,8 @@ msgstr "Render Native Resolution"
 msgid "Keyboard Shortcuts"
 msgstr "Prečice na tastaturi"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Omogući KasmVNC prečice na tastaturi"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Omogući npdVNC prečice na tastaturi"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Uključite kontrolnu tablu"
@@ -350,5 +350,5 @@ msgstr "dokumentacija"
 msgid "Drag Viewport"
 msgstr "Drag Viewport"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC je naišao na grešku:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC je naišao na grešku:"

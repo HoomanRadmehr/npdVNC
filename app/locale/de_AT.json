@@ -94,7 +94,7 @@
     "Toggle Control Panel via Keystrokes": "Systemsteuerung per Tastendruck umschalten",
     "Render Native Resolution": "Native Auflösung rendern",
     "Keyboard Shortcuts": "Tastatürkürzel",
-    "Enable KasmVNC Keyboard Shortcuts": "KasmVNC-Tastaturkürzel aktivieren",
+    "Enable npdVNC Keyboard Shortcuts": "npdVNC-Tastaturkürzel aktivieren",
     "1 - Toggle Control Panel": "1 - Systemsteuerung umschalten",
     "2 - Toggle Game Pointer Mode": "2 - Spielzeigermodus umschalten",
     "3 - Toggle Pointer Lock": "3 - Zeigersperre umschalten",
@@ -124,5 +124,5 @@
     "Video Mode Height:": "Höhe im Videomodus:",
     "Documentation": "Dokumentation",
     "Drag Viewport": "Darstellungsfenster ziehen",
-    "KasmVNC encountered an error:": "KasmVNC hat einen Fehler festgestellt:"
+    "npdVNC encountered an error:": "npdVNC hat einen Fehler festgestellt:"
 }

@@ -94,7 +94,7 @@
     "Toggle Control Panel via Keystrokes": "Переключить панель управления с помощью клавиш",
     "Render Native Resolution": "Визуализировать исходное разрешение",
     "Keyboard Shortcuts": "Горячие клавиши",
-    "Enable KasmVNC Keyboard Shortcuts": "Включить сочетания клавиш KasmVNC",
+    "Enable npdVNC Keyboard Shortcuts": "Включить сочетания клавиш npdVNC",
     "1 - Toggle Control Panel": "1 - Переключить панель управления",
     "2 - Toggle Game Pointer Mode": "2 - Переключить режим указателя игры",
     "3 - Toggle Pointer Lock": "3 — Переключить блокировку указателя",
@@ -124,5 +124,5 @@
     "Video Mode Height:": "Высота режима видео:",
     "Documentation": "Документация",
     "Drag Viewport": "Перетаскивание видового экрана",
-    "KasmVNC encountered an error:": "KasmVNC обнаружил ошибку:"
+    "npdVNC encountered an error:": "npdVNC обнаружил ошибку:"
 }

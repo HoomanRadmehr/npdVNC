@@ -260,8 +260,8 @@ msgstr "Render Native Resolution"
 msgid "Keyboard Shortcuts"
 msgstr "Klaviatuuri otseteed"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "KasmVNC kiirklahvide lubamine"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "npdVNC kiirklahvide lubamine"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 – juhtpaneeli sisse- ja väljalülitamine"
@@ -350,5 +350,5 @@ msgstr "Dokumentatsioon"
 msgid "Drag Viewport"
 msgstr "Lohistamisvaade"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC-s ilmnes viga:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC-s ilmnes viga:"

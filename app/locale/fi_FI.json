@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Vaihda ohjauspaneelia näppäinpainalluksilla",
     "Render Native Resolution": "Render Native Resolution",
     "Keyboard Shortcuts": "Pikanäppäimet",
-    "Enable KasmVNC Keyboard Shortcuts": "Ota KasmVNC-pikanäppäimet käyttöön",
+    "Enable npdVNC Keyboard Shortcuts": "Ota npdVNC-pikanäppäimet käyttöön",
     "1 - Toggle Control Panel": "1 - Vaihda ohjauspaneelia",
     "2 - Toggle Game Pointer Mode": "2 - Vaihda pelin osoitintilaa",
     "3 - Toggle Pointer Lock": "3 - Vaihda osoittimen lukitus",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Videotilan korkeus:",
     "Documentation": "Dokumentointi",
     "Drag Viewport": "Vedä näkymä",
-    "KasmVNC encountered an error:": "KasmVNC havaitsi virheen:"
+    "npdVNC encountered an error:": "npdVNC havaitsi virheen:"
 }

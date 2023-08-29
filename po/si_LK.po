@@ -260,8 +260,8 @@ msgstr "දේශීය විභේදනය ඉදිරිපත් කරන
 msgid "Keyboard Shortcuts"
 msgstr "යතුරුපුවරු කෙටිමං"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "KasmVNC යතුරුපුවරු කෙටිමං සබල කරන්න"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "npdVNC යතුරුපුවරු කෙටිමං සබල කරන්න"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - පාලක පැනලය ටොගල් කරන්න"
@@ -350,5 +350,5 @@ msgstr "ලේඛන"
 msgid "Drag Viewport"
 msgstr "Drag Viewport"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC දෝෂයක් ඇති විය:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC දෝෂයක් ඇති විය:"

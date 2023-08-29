@@ -260,8 +260,8 @@ msgstr "नेटिव्ह रिझोल्यूशन रेंडर क
 msgid "Keyboard Shortcuts"
 msgstr "कीबोर्ड शॉर्टकट"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "KasmVNC कीबोर्ड शॉर्टकट सक्षम करा"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "npdVNC कीबोर्ड शॉर्टकट सक्षम करा"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - नियंत्रण पॅनेल टॉगल करा"
@@ -350,5 +350,5 @@ msgstr "दस्तऐवजीकरण"
 msgid "Drag Viewport"
 msgstr "व्ह्यूपोर्ट ड्रॅग करा"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC मध्ये त्रुटी आली:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC मध्ये त्रुटी आली:"

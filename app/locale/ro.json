@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Comutați panoul de control prin apăsări de taste",
     "Render Native Resolution": "Redare rezoluție nativă",
     "Keyboard Shortcuts": "Comenzi rapide de la tastatură",
-    "Enable KasmVNC Keyboard Shortcuts": "Activați comenzile rapide de la tastatură KasmVNC",
+    "Enable npdVNC Keyboard Shortcuts": "Activați comenzile rapide de la tastatură npdVNC",
     "1 - Toggle Control Panel": "1 - Comutați panoul de control",
     "2 - Toggle Game Pointer Mode": "2 - Comutați modul indicator de joc",
     "3 - Toggle Pointer Lock": "3 - Comutați blocarea indicatorului",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Înălțimea modului video:",
     "Documentation": "Documentație",
     "Drag Viewport": "Trasați fereastra de vizualizare",
-    "KasmVNC encountered an error:": "KasmVNC a întâmpinat o eroare:"
+    "npdVNC encountered an error:": "npdVNC a întâmpinat o eroare:"
 }

@@ -260,8 +260,8 @@ msgstr "Samee Qaraarka Dhaladka"
 msgid "Keyboard Shortcuts"
 msgstr "Keyboodhka Gaaban"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Kor-geli KasmVNC Kiiboodhka Gaaban"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Kor-geli npdVNC Kiiboodhka Gaaban"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Beddel kontoroolka"
@@ -350,5 +350,5 @@ msgstr "Documentation"
 msgid "Drag Viewport"
 msgstr "Deegaanka Jiid"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC waxay la kulantay cilad:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC waxay la kulantay cilad:"

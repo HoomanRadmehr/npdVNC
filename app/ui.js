@@ -1,6 +1,6 @@
 /*
- * KasmVNC: HTML5 VNC client
- * Copyright (C) 2020 Kasm Technologies
+ * npdVNC: HTML5 VNC client
+ * Copyright (C) 2020 npd Technologies
  * Copyright (C) 2019 The noVNC Authors
  * Licensed under MPL 2.0 (see LICENSE.txt)
  *
@@ -45,7 +45,7 @@ import RFB from "../core/rfb.js";
 import { MouseButtonMapper, XVNC_BUTTONS } from "../core/mousebuttonmapper.js";
 import * as WebUtil from "./webutil.js";
 
-const PAGE_TITLE = "KasmVNC";
+const PAGE_TITLE = "npdVNC";
 
 var currentEventCount = -1;
 var idleCounter = 0;
@@ -263,7 +263,7 @@ const UI = {
         UI.initSetting('enable_hidpi', false);
         UI.toggleKeyboardControls();
 
-        if (WebUtil.isInsideKasmVDI()) {
+        if (WebUtil.isInsidenpdVDI()) {
             UI.initSetting('clipboard_up', false);
             UI.initSetting('clipboard_down', false);
             UI.initSetting('clipboard_seamless', false);
@@ -617,7 +617,7 @@ const UI = {
         document.documentElement.classList.remove("noVNC_disconnected");
 
         const transitionElem = document.getElementById("noVNC_transition_text");
-        if (WebUtil.isInsideKasmVDI())         
+        if (WebUtil.isInsidenpdVDI())         
         {
             parent.postMessage({ action: 'connection_state', value: state}, '*' );
         }
@@ -698,9 +698,9 @@ const UI = {
         
     },
 
-    showStatus(text, statusType, time, kasm = false) {
-        // If inside the full Kasm CDI framework, don't show messages unless explicitly told to
-        if (WebUtil.isInsideKasmVDI() && !kasm) {
+    showStatus(text, statusType, time, npd = false) {
+        // If inside the full npd CDI framework, don't show messages unless explicitly told to
+        if (WebUtil.isInsidenpdVDI() && !npd) {
             return;
         }
 
@@ -792,7 +792,7 @@ const UI = {
     openControlbar() {
         document.getElementById('noVNC_control_bar')
             .classList.add("noVNC_open");
-        if (WebUtil.isInsideKasmVDI()) {
+        if (WebUtil.isInsidenpdVDI()) {
              parent.postMessage({ action: 'control_open', value: 'Control bar opened'}, '*' );
         }
     },
@@ -804,7 +804,7 @@ const UI = {
         if (UI.rfb) {
             UI.rfb.focus();
         }
-        if (WebUtil.isInsideKasmVDI()) {
+        if (WebUtil.isInsidenpdVDI()) {
              parent.postMessage({ action: 'control_close', value: 'Control bar closed'}, '*' );
         }
     },
@@ -1434,7 +1434,7 @@ const UI = {
             // explicitly request permission to the clipboard
             navigator.permissions.query({ name: "clipboard-read" }).then((result) => { Log.Debug('binary clipboard enabled') });
         }
-        // KASM-960 workaround, disable seamless on Safari
+        // npd-960 workaround, disable seamless on Safari
         if (/^((?!chrome|android).)*safari/i.test(navigator.userAgent)) 
         { 
             UI.rfb.clipboardSeamless = false; 
@@ -1444,9 +1444,9 @@ const UI = {
         UI.updateViewOnly(); // requires UI.rfb
 
         /****
-        *    Kasm VDI specific
+        *    npd VDI specific
         *****/
-        if (WebUtil.isInsideKasmVDI()) {
+        if (WebUtil.isInsidenpdVDI()) {
             if (window.addEventListener) { // Mozilla, Netscape, Firefox
                 //window.addEventListener('load', WindowLoad, false);
                 window.addEventListener('message', UI.receiveMessage, false);
@@ -1483,7 +1483,7 @@ const UI = {
             document.getElementById('noVNC_status').style.visibility = "visible";
         }
 
-        //key events for KasmVNC control
+        //key events for npdVNC control
         document.addEventListener('keyup', function (event) {
             if (event.ctrlKey && event.shiftKey) {
                 switch(event.keyCode) {
@@ -1612,7 +1612,7 @@ const UI = {
 
     //send message to parent window
     sendMessage(name, value) {
-        if (WebUtil.isInsideKasmVDI()) {
+        if (WebUtil.isInsidenpdVDI()) {
             parent.postMessage({ action: name, value: value }, '*' );
         }
     },
@@ -1731,7 +1731,7 @@ const UI = {
     },
 
     toggleNav(){
-        if (WebUtil.isInsideKasmVDI()) {
+        if (WebUtil.isInsidenpdVDI()) {
             parent.postMessage({ action: 'togglenav', value: null}, '*' );
         } else {
             UI.toggleControlbar();
@@ -1804,7 +1804,7 @@ const UI = {
  * ------v------*/
 
     toggleFullscreen() {
-        if (WebUtil.isInsideKasmVDI()) {
+        if (WebUtil.isInsidenpdVDI()) {
              parent.postMessage({ action: 'fullscreen', value: 'Fullscreen clicked'}, '*' );
              return;
         }

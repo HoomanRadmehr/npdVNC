@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "ﺢﻴﺗﺎﻔﻤﻟﺍ ﺕﺎﻄﻐﺿ ﺮﺒﻋ ﻢﻜﺤﺘﻟﺍ ﺔﺣﻮﻟ ﻞﻳﺪﺒﺗ",
     "Render Native Resolution": "ﻲﻠﺻﻷ﻿ﺍ ﻞﺤﻟﺍ ﺽﺮﻋ",
     "Keyboard Shortcuts": "ﺢﻴﺗﺎﻔﻤﻟﺍ ﺔﺣﻮﻟ ﺕﺍﺭﺎﺼﺘﺧﺍ",
-    "Enable KasmVNC Keyboard Shortcuts": "KasmVNC ﺢﻴﺗﺎﻔﻣ ﺔﺣﻮﻟ ﺕﺍﺭﺎﺼﺘﺧﺍ ﻦﻴﻜﻤﺗ",
+    "Enable npdVNC Keyboard Shortcuts": "npdVNC ﺢﻴﺗﺎﻔﻣ ﺔﺣﻮﻟ ﺕﺍﺭﺎﺼﺘﺧﺍ ﻦﻴﻜﻤﺗ",
     "1 - Toggle Control Panel": "ﻢﻜﺤﺘﻟﺍ ﺔﺣﻮﻟ ﻞﻳﺪﺒﺗ - 1",
     "2 - Toggle Game Pointer Mode": "ﺔﺒﻌﻠﻟﺍ ﺮﺷﺆﻣ ﻊﺿﻭ ﻞﻳﺪﺒﺗ - 2",
     "3 - Toggle Pointer Lock": "ﺮﺷﺆﻤﻟﺍ ﻞﻔﻗ ﻞﻳﺪﺒﺗ - 3",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "ﻮﻳﺪﻴﻔﻟﺍ ﻊﺿﻭ ﻉﺎﻔﺗﺭﺍ",
     "Documentation": "ﻖﻴﺛﻮﺗ",
     "Drag Viewport": "ﺽﺮﻌﻟﺍ ﺬﻔﻨﻣ ﺐﺤﺳﺍ",
-    "KasmVNC encountered an error:": "ﺄﻄﺧ KasmVNC ﻪﺟﺍﻭ"
+    "npdVNC encountered an error:": "ﺄﻄﺧ npdVNC ﻪﺟﺍﻭ"
 }

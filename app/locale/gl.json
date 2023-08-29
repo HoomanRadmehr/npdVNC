@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Activar o panel de control mediante as pulsacións de teclas",
     "Render Native Resolution": "Renderizar resolución nativa",
     "Keyboard Shortcuts": "Atallos de teclado",
-    "Enable KasmVNC Keyboard Shortcuts": "Activar os atallos de teclado de KasmVNC",
+    "Enable npdVNC Keyboard Shortcuts": "Activar os atallos de teclado de npdVNC",
     "1 - Toggle Control Panel": "1 - Alternar o panel de control",
     "2 - Toggle Game Pointer Mode": "2 - Alternar o modo de punteiro de xogo",
     "3 - Toggle Pointer Lock": "3 - Alternar o bloqueo do punteiro",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Altura do modo de vídeo:",
     "Documentation": "Documentación",
     "Drag Viewport": "Arrastrar a xanela",
-    "KasmVNC encountered an error:": "KasmVNC atopou un erro:"
+    "npdVNC encountered an error:": "npdVNC atopou un erro:"
 }

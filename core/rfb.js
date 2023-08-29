@@ -1,6 +1,6 @@
 /*
- * KasmVNC: HTML5 VNC client
- * Copyright (C) 2020 Kasm Technologies
+ * npdVNC: HTML5 VNC client
+ * Copyright (C) 2020 npd Technologies
  * Copyright (C) 2020 The noVNC Authors
  * Licensed under MPL 2.0 (see LICENSE.txt)
  *
@@ -126,7 +126,7 @@ export default class RFB extends EventTargetMixin {
         this._screenFlags = 0;
         this._qemuExtKeyEventSupported = false;
 
-        // kasm defaults
+        // npd defaults
         this._jpegVideoQuality = 5;
         this._webpVideoQuality = 5;
         this._treatLossless = 7;
@@ -2272,7 +2272,7 @@ export default class RFB extends EventTargetMixin {
     _negotiateStdVNCAuth() {
         if (this._sock.rQwait("auth challenge", 16)) { return false; }
 
-        // KasmVNC uses basic Auth, clear the VNC password, which is not used
+        // npdVNC uses basic Auth, clear the VNC password, which is not used
         this._rfbCredentials.password = "";
 
         // TODO(directxman12): make genDES not require an Array
@@ -2610,7 +2610,7 @@ export default class RFB extends EventTargetMixin {
             encs.push(encodings.pseudoEncodingQOI);
             
 
-        // kasm settings; the server may be configured to ignore these
+        // npd settings; the server may be configured to ignore these
         encs.push(encodings.pseudoEncodingJpegVideoQualityLevel0 + this.jpegVideoQuality);
         encs.push(encodings.pseudoEncodingWebpVideoQualityLevel0 + this.webpVideoQuality);
         encs.push(encodings.pseudoEncodingTreatLosslessLevel0 + this.treatLossless);
@@ -2956,11 +2956,11 @@ export default class RFB extends EventTargetMixin {
     _handle_server_stats_msg() {
         this._sock.rQskipBytes(3);  // Padding
         const length = this._sock.rQshift32();
-        if (this._sock.rQwait("KASM bottleneck stats", length, 8)) { return false; }
+        if (this._sock.rQwait("npd bottleneck stats", length, 8)) { return false; }
 
         const text = this._sock.rQshiftStr(length);
 
-        Log.Debug("Received KASM bottleneck stats:");
+        Log.Debug("Received npd bottleneck stats:");
         Log.Debug(text);
         this.dispatchEvent(new CustomEvent(
             "bottleneck_stats",
@@ -3085,23 +3085,23 @@ export default class RFB extends EventTargetMixin {
                 }
                 return true;
 
-            case 178: // KASM bottleneck stats
+            case 178: // npd bottleneck stats
                 return this._handle_server_stats_msg();
 
-            case 179: // KASM requesting frame stats
+            case 179: // npd requesting frame stats
                 this._trackFrameStats = true;
                 return true;
 
-            case 180: // KASM binary clipboard
+            case 180: // npd binary clipboard
                 return this._handleBinaryClipboard();
 
-            case 181: // KASM UDP upgrade
+            case 181: // npd UDP upgrade
                 return this._handleUdpUpgrade();
 
-            case 182: // KASM unix relay subscription
+            case 182: // npd unix relay subscription
                 return this._handleSubscribeUnixRelay();
 
-            case 183: // KASM unix relay data
+            case 183: // npd unix relay data
                 return this._handleUnixRelay();
 
             case 248: // ServerFence

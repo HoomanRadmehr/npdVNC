@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Guqula iPhaneli yoLawulo ngokusebenzisa ii-keystrokes",
     "Render Native Resolution": "Nikela iSigqibo seNdawo",
     "Keyboard Shortcuts": "Iindlela ezimfutshane zekhibhodi",
-    "Enable KasmVNC Keyboard Shortcuts": "Yenza i-KasmVNC Iindlela ezimfutshane zekhibhodi",
+    "Enable npdVNC Keyboard Shortcuts": "Yenza i-npdVNC Iindlela ezimfutshane zekhibhodi",
     "1 - Toggle Control Panel": "1-Guqula iPhaneli yoLawulo",
     "2 - Toggle Game Pointer Mode": "2-Guqula iMowudi yesikhombisi somdlalo",
     "3 - Toggle Pointer Lock": "3-Guqula isitshixo sesalathisi",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Ubude beModi yeVidiyo:",
     "Documentation": "Amaxwebhu",
     "Drag Viewport": "Thatha indawo yokujonga",
-    "KasmVNC encountered an error:": "I-KasmVNC ifumene impazamo:"
+    "npdVNC encountered an error:": "I-npdVNC ifumene impazamo:"
 }

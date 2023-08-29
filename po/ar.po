@@ -260,8 +260,8 @@ msgstr "ﻲﻠﺻﻷ﻿ﺍ ﻞﺤﻟﺍ ﺽﺮﻋ"
 msgid "Keyboard Shortcuts"
 msgstr "ﺢﻴﺗﺎﻔﻤﻟﺍ ﺔﺣﻮﻟ ﺕﺍﺭﺎﺼﺘﺧﺍ"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "KasmVNC ﺢﻴﺗﺎﻔﻣ ﺔﺣﻮﻟ ﺕﺍﺭﺎﺼﺘﺧﺍ ﻦﻴﻜﻤﺗ"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "npdVNC ﺢﻴﺗﺎﻔﻣ ﺔﺣﻮﻟ ﺕﺍﺭﺎﺼﺘﺧﺍ ﻦﻴﻜﻤﺗ"
 
 msgid "1 - Toggle Control Panel"
 msgstr "ﻢﻜﺤﺘﻟﺍ ﺔﺣﻮﻟ ﻞﻳﺪﺒﺗ - 1"
@@ -350,5 +350,5 @@ msgstr "ﻖﻴﺛﻮﺗ"
 msgid "Drag Viewport"
 msgstr "ﺽﺮﻌﻟﺍ ﺬﻔﻨﻣ ﺐﺤﺳﺍ"
 
-msgid "KasmVNC encountered an error:"
-msgstr "ﺄﻄﺧ KasmVNC ﻪﺟﺍﻭ"
+msgid "npdVNC encountered an error:"
+msgstr "ﺄﻄﺧ npdVNC ﻪﺟﺍﻭ"

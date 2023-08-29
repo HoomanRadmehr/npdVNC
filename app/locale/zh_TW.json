@@ -93,7 +93,7 @@
     "Toggle Control Panel via Keystrokes": "通過擊鍵切換控制面板",
     "Render Native Resolution": "渲染本機分辨率",
     "Keyboard Shortcuts": "鍵盤快捷鍵",
-    "Enable KasmVNC Keyboard Shortcuts": "啟用 KasmVNC 鍵盤快捷鍵",
+    "Enable npdVNC Keyboard Shortcuts": "啟用 npdVNC 鍵盤快捷鍵",
     "1 - Toggle Control Panel": "1 - 切換控制面板",
     "2 - Toggle Game Pointer Mode": "2 - 切換遊戲指針模式",
     "3 - Toggle Pointer Lock": "3 - 切換指針鎖定",
@@ -123,5 +123,5 @@
     "Video Mode Height:": "視頻模式高度：",
     "Documentation": "文檔",
     "Drag Viewport": "拖動視口",
-    "KasmVNC encountered an error:": "KasmVNC 遇到錯誤："
+    "npdVNC encountered an error:": "npdVNC 遇到錯誤："
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@kasmtech/novnc",
+  "name": "@npdtech/novnc",
   "version": "1.3.0",
   "description": "An HTML5 VNC client",
   "browser": "lib/rfb",
@@ -27,15 +27,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kasmtech/noVNC.git"
+    "url": "git+https://github.com/npdtech/noVNC.git"
   },
-  "author": "Kasm Technologies (https://www.kasmweb.com)",
+  "author": "npd Technologies (https://www.npdweb.com)",
   "contributors": [],
   "license": "MPL-2.0",
   "bugs": {
-    "url": "https://github.com/kasmtech/noVNC/issues"
+    "url": "https://github.com/npdtech/noVNC/issues"
   },
-  "homepage": "https://github.com/kasmtech/noVNC",
+  "homepage": "https://github.com/npdtech/noVNC",
   "devDependencies": {
     "@babel/cli": "*",
     "@babel/core": "*",

@@ -260,8 +260,8 @@ msgstr "Візуалізаваць роднае разрозненне"
 msgid "Keyboard Shortcuts"
 msgstr "Спалучэнні клавіш"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Уключыць спалучэнні клавіш KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Уключыць спалучэнні клавіш npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Пераключыць панэль кіравання"
@@ -350,5 +350,5 @@ msgstr "Дакументацыя"
 msgid "Drag Viewport"
 msgstr "Перацягнуць акно прагляду"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC выявіў памылку:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC выявіў памылку:"

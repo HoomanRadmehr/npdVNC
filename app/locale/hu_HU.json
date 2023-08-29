@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Vezérlőpult váltása billentyűleütésekkel",
     "Render Native Resolution": "Render Native Resolution",
     "Keyboard Shortcuts": "Gyorsbillentyűket",
-    "Enable KasmVNC Keyboard Shortcuts": "A KasmVNC billentyűparancsok engedélyezése",
+    "Enable npdVNC Keyboard Shortcuts": "A npdVNC billentyűparancsok engedélyezése",
     "1 - Toggle Control Panel": "1 - Vezérlőpult váltása",
     "2 - Toggle Game Pointer Mode": "2 – Játékmutató mód váltása",
     "3 - Toggle Pointer Lock": "3 - Mutatózár váltása",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Videó mód magassága:",
     "Documentation": "Dokumentáció",
     "Drag Viewport": "Nézetablak húzása",
-    "KasmVNC encountered an error:": "A KasmVNC hibát észlelt:"
+    "npdVNC encountered an error:": "A npdVNC hibát észlelt:"
 }

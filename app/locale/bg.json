@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Превключване на контролния панел чрез натискане на клавиши",
     "Render Native Resolution": "Render Native Resolution",
     "Keyboard Shortcuts": "Комбинация от клавиши",
-    "Enable KasmVNC Keyboard Shortcuts": "Активиране на клавишните комбинации на KasmVNC",
+    "Enable npdVNC Keyboard Shortcuts": "Активиране на клавишните комбинации на npdVNC",
     "1 - Toggle Control Panel": "1 – Превключване на контролния панел",
     "2 - Toggle Game Pointer Mode": "2 – Превключване на режима на показалеца на играта",
     "3 - Toggle Pointer Lock": "3 – Превключване на заключването на показалеца",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Височина на видео режим:",
     "Documentation": "документация",
     "Drag Viewport": "Изглед с плъзгане",
-    "KasmVNC encountered an error:": "KasmVNC откри грешка:"
+    "npdVNC encountered an error:": "npdVNC откри грешка:"
 }

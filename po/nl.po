@@ -393,8 +393,8 @@ msgstr "Native resolutie weergeven"
 msgid "Keyboard Shortcuts"
 msgstr "Toetsenbord sneltoetsen"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "KasmVNC-sneltoetsen inschakelen"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "npdVNC-sneltoetsen inschakelen"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Configuratiescherm omschakelen"
@@ -483,5 +483,5 @@ msgstr "Documentatie"
 msgid "Drag Viewport"
 msgstr "Sleep Viewport"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC heeft een fout aangetroffen:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC heeft een fout aangetroffen:"

@@ -260,8 +260,8 @@ msgstr "Түпкү резолюцияны көрсөтүү"
 msgid "Keyboard Shortcuts"
 msgstr "Клавиатуранын жарлыктары"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "KasmVNC баскычтопту иштетүү"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "npdVNC баскычтопту иштетүү"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Башкаруу панелин которуу"
@@ -350,5 +350,5 @@ msgstr "Документтер"
 msgid "Drag Viewport"
 msgstr "Көрүү портун сүйрөө"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC катага туш болду:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC катага туш болду:"

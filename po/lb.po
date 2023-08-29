@@ -260,8 +260,8 @@ msgstr "Rend Native Resolution"
 msgid "Keyboard Shortcuts"
 msgstr "Tastatur Ofkiirzungen"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "KasmVNC Tastatur Ofkiirzungen aktivéieren"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "npdVNC Tastatur Ofkiirzungen aktivéieren"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Toggle Control Panel"
@@ -350,5 +350,5 @@ msgstr "Dokumentatioun"
 msgid "Drag Viewport"
 msgstr "Drag Viewport"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC huet e Feeler begéint:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC huet e Feeler begéint:"

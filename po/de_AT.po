@@ -386,8 +386,8 @@ msgstr "Native Auflösung rendern"
 msgid "Keyboard Shortcuts"
 msgstr "Tastatürkürzel"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "KasmVNC-Tastaturkürzel aktivieren"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "npdVNC-Tastaturkürzel aktivieren"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Systemsteuerung umschalten"
@@ -476,5 +476,5 @@ msgstr "Dokumentation"
 msgid "Drag Viewport"
 msgstr "Darstellungsfenster ziehen"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC hat einen Fehler festgestellt:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC hat einen Fehler festgestellt:"

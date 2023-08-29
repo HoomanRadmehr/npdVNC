@@ -260,8 +260,8 @@ msgstr "મૂળ રીઝોલ્યુશન રેન્ડર કરો"
 msgid "Keyboard Shortcuts"
 msgstr "કીબોર્ડ શૉર્ટકટ્સ"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "KasmVNC કીબોર્ડ શોર્ટકટ સક્ષમ કરો"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "npdVNC કીબોર્ડ શોર્ટકટ સક્ષમ કરો"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - નિયંત્રણ પેનલને ટૉગલ કરો"
@@ -350,5 +350,5 @@ msgstr "દસ્તાવેજીકરણ"
 msgid "Drag Viewport"
 msgstr "ડ્રેગ વ્યૂપોર્ટ"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC ને એક ભૂલ આવી:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC ને એક ભૂલ આવી:"

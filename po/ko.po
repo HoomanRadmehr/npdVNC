@@ -370,8 +370,8 @@ msgstr "\"기본 해상도 렌더링\""
 msgid "Keyboard Shortcuts"
 msgstr "키보드 단축키"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "\"KasmVNC 키보드 단축키 활성화\""
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "\"npdVNC 키보드 단축키 활성화\""
 
 msgid "1 - Toggle Control Panel"
 msgstr "\"1 - 제어판 전환\""
@@ -460,5 +460,5 @@ msgstr "선적 서류 비치"
 msgid "Drag Viewport"
 msgstr "드래그 뷰포트"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC에 오류가 발생했습니다:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC에 오류가 발생했습니다:"

@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Guqula Iphaneli Yokulawula ngokusebenzisa Izinkinobho Zokhiye",
     "Render Native Resolution": "Nikeza isixazululo somdabu",
     "Keyboard Shortcuts": "Izinqamuleli zekhibhodi",
-    "Enable KasmVNC Keyboard Shortcuts": "Vumela Izinqamuleli Zekhibhodi ye-KasmVNC",
+    "Enable npdVNC Keyboard Shortcuts": "Vumela Izinqamuleli Zekhibhodi ye-npdVNC",
     "1 - Toggle Control Panel": "1 - Guqula Iphaneli Yokulawula",
     "2 - Toggle Game Pointer Mode": "2 - Guqula Imodi Yesikhombi Segeyimu",
     "3 - Toggle Pointer Lock": "3 - Guqula Isikhiya Sesikhombi",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Ubude bemodi yevidiyo:",
     "Documentation": "Amadokhumenti",
     "Drag Viewport": "Hudula imbobo yokubuka",
-    "KasmVNC encountered an error:": "I-KasmVNC ihlangabezane nephutha:"
+    "npdVNC encountered an error:": "I-npdVNC ihlangabezane nephutha:"
 }

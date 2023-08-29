@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "விசை அழுத்தங்கள் வழியாக கண்ட்ரோல் பேனலை மாற்று",
     "Render Native Resolution": "இன்டர் நேட்டிவ் ரெசல்யூஷன்",
     "Keyboard Shortcuts": "விசைப்பலகை குறுக்குவழிகள்",
-    "Enable KasmVNC Keyboard Shortcuts": "KasmVNC விசைப்பலகை குறுக்குவழிகளை இயக்கு",
+    "Enable npdVNC Keyboard Shortcuts": "npdVNC விசைப்பலகை குறுக்குவழிகளை இயக்கு",
     "1 - Toggle Control Panel": "1 - கண்ட்ரோல் பேனலை மாற்று",
     "2 - Toggle Game Pointer Mode": "2 - கேம் பாயிண்டர் பயன்முறையை மாற்று",
     "3 - Toggle Pointer Lock": "3 - சுட்டி பூட்டை மாற்று",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "வீடியோ பயன்முறை உயரம்:",
     "Documentation": "ஆவணம்",
     "Drag Viewport": "வியூபோர்ட்டை இழுக்கவும்",
-    "KasmVNC encountered an error:": "KasmVNC ஒரு பிழையை எதிர்கொண்டது:"
+    "npdVNC encountered an error:": "npdVNC ஒரு பிழையை எதிர்கொண்டது:"
 }

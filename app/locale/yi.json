@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "סקואָרטסיק ךרוד לענאַפּ לאָרטנאָק ךאַמ",
     "Render Native Resolution": "עטאָלכאַה ןריובעג ןבעגסיוראַ",
     "Keyboard Shortcuts": "ץאַקטראָש רוטאַיוואַלק",
-    "Enable KasmVNC Keyboard Shortcuts": "ץאַקטראָש רוטאַיוואַלק KasmVNC ןבעג",
+    "Enable npdVNC Keyboard Shortcuts": "ץאַקטראָש רוטאַיוואַלק npdVNC ןבעג",
     "1 - Toggle Control Panel": "לענאַפּ לאָרטנאָק לאַגאַט - 1",
     "2 - Toggle Game Pointer Mode": "עדאָמ לטיַיט ליפּש לאַגאַט - 2",
     "3 - Toggle Pointer Lock": "קאַל רעטניופּ לאַגאַט - 3",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "ךייה עדאָמ אעדיוו",
     "Documentation": "ןאָיטאַטנעמוקאָד",
     "Drag Viewport": "טראָפּויוו ןפּעלש",
-    "KasmVNC encountered an error:": "KasmVNC תועט אַ טרעטנאָלפּעג:"
+    "npdVNC encountered an error:": "npdVNC תועט אַ טרעטנאָלפּעג:"
 }

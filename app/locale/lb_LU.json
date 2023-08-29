@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Kontrollpanel iwwer Tastatur wiesselen",
     "Render Native Resolution": "Rend Native Resolution",
     "Keyboard Shortcuts": "Tastatur Ofkiirzungen",
-    "Enable KasmVNC Keyboard Shortcuts": "KasmVNC Tastatur Ofkiirzungen aktivéieren",
+    "Enable npdVNC Keyboard Shortcuts": "npdVNC Tastatur Ofkiirzungen aktivéieren",
     "1 - Toggle Control Panel": "1 - Toggle Control Panel",
     "2 - Toggle Game Pointer Mode": "2 - Toggle Game Pointer Mode",
     "3 - Toggle Pointer Lock": "3 - Toggle Pointer Lock",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Video Modus Héicht:",
     "Documentation": "Dokumentatioun",
     "Drag Viewport": "Drag Viewport",
-    "KasmVNC encountered an error:": "KasmVNC huet e Feeler begéint:"
+    "npdVNC encountered an error:": "npdVNC huet e Feeler begéint:"
 }

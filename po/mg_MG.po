@@ -260,8 +260,8 @@ msgstr "Render Native Resolution"
 msgid "Keyboard Shortcuts"
 msgstr "Shortcuts keyboard"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Avelao ny KasmVNC Keyboard Shortcuts"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Avelao ny npdVNC Keyboard Shortcuts"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Toggle Control Panel"
@@ -350,5 +350,5 @@ msgstr "Dokumentation"
 msgid "Drag Viewport"
 msgstr "Drag Viewport"
 
-msgid "KasmVNC encountered an error:"
-msgstr "Nahita hadisoana ny KasmVNC:"
+msgid "npdVNC encountered an error:"
+msgstr "Nahita hadisoana ny npdVNC:"

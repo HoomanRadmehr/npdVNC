@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Scoránaigh an Painéal Rialúcháin trí Eochairbhuillí",
     "Render Native Resolution": "Render Taifeach Dúchasach",
     "Keyboard Shortcuts": "Aicearraí méarchláir",
-    "Enable KasmVNC Keyboard Shortcuts": "Cumasaigh Aicearraí Méarchláir KasmVNC",
+    "Enable npdVNC Keyboard Shortcuts": "Cumasaigh Aicearraí Méarchláir npdVNC",
     "1 - Toggle Control Panel": "1 - Scoránaigh Painéal Rialúcháin",
     "2 - Toggle Game Pointer Mode": "2 - Scoránaigh Mód Pointeora Cluiche",
     "3 - Toggle Pointer Lock": "3 - Scoránaigh Glasáil Pointeora",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Airde Mód Físe:",
     "Documentation": "Doiciméad",
     "Drag Viewport": "Tarraing Viewport",
-    "KasmVNC encountered an error:": "Tharla earráid i KasmVNC:"
+    "npdVNC encountered an error:": "Tharla earráid i npdVNC:"
 }

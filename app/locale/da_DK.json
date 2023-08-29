@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Skift kontrolpanel via tastetryk",
     "Render Native Resolution": "Gengiver oprindelig opløsning",
     "Keyboard Shortcuts": "Tastaturgenveje",
-    "Enable KasmVNC Keyboard Shortcuts": "Aktiver KasmVNC-tastaturgenveje",
+    "Enable npdVNC Keyboard Shortcuts": "Aktiver npdVNC-tastaturgenveje",
     "1 - Toggle Control Panel": "1 - Skift kontrolpanel",
     "2 - Toggle Game Pointer Mode": "2 - Skift Game Pointer Mode",
     "3 - Toggle Pointer Lock": "3 - Toggle Pointer Lock",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Video Mode Højde:",
     "Documentation": "Dokumentation",
     "Drag Viewport": "Træk visningsport",
-    "KasmVNC encountered an error:": "KasmVNC stødte på en fejl:"
+    "npdVNC encountered an error:": "npdVNC stødte på en fejl:"
 }

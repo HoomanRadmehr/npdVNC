@@ -260,8 +260,8 @@ msgstr "Renderizar resolución nativa"
 msgid "Keyboard Shortcuts"
 msgstr "Atallos de teclado"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Activar os atallos de teclado de KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Activar os atallos de teclado de npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Alternar o panel de control"
@@ -350,5 +350,5 @@ msgstr "Documentación"
 msgid "Drag Viewport"
 msgstr "Arrastrar a xanela"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC atopou un erro:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC atopou un erro:"

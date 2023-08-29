@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "პანელის გადართვა კლავიშების საშუალებით",
     "Render Native Resolution": "რენდერი Native Resolution",
     "Keyboard Shortcuts": "კლავიატურის მალსახმობები",
-    "Enable KasmVNC Keyboard Shortcuts": "ჩართეთ KasmVNC კლავიატურის მალსახმობები",
+    "Enable npdVNC Keyboard Shortcuts": "ჩართეთ npdVNC კლავიატურის მალსახმობები",
     "1 - Toggle Control Panel": "1 - საკონტროლო პანელის გადართვა",
     "2 - Toggle Game Pointer Mode": "2 - თამაშის მაჩვენებლის რეჟიმის გადართვა",
     "3 - Toggle Pointer Lock": "3 - გადართვა Pointer Lock",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "ვიდეო რეჟიმის სიმაღლე:",
     "Documentation": "დოკუმენტაცია",
     "Drag Viewport": "გადაათრიეთ ხედის პორტი",
-    "KasmVNC encountered an error:": "KasmVNC შეექმნა შეცდომა:"
+    "npdVNC encountered an error:": "npdVNC შეექმნა შეცდომა:"
 }

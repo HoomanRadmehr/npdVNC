@@ -260,8 +260,8 @@ msgstr "Toa Azimio la Asili"
 msgid "Keyboard Shortcuts"
 msgstr "Njia za mkato za kibodi"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Wezesha Njia za Mkato za Kibodi ya KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Wezesha Njia za Mkato za Kibodi ya npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Geuza Paneli ya Kudhibiti"
@@ -350,5 +350,5 @@ msgstr "Nyaraka"
 msgid "Drag Viewport"
 msgstr "Buruta Viewport"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC ilipata hitilafu:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC ilipata hitilafu:"

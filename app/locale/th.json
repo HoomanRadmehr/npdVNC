@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "สลับแผงควบคุมผ่านการกดแป้นพิมพ์",
     "Render Native Resolution": "เรนเดอร์ Native Resolution",
     "Keyboard Shortcuts": "แป้นพิมพ์ลัด",
-    "Enable KasmVNC Keyboard Shortcuts": "เปิดใช้งานแป้นพิมพ์ลัด KasmVNC",
+    "Enable npdVNC Keyboard Shortcuts": "เปิดใช้งานแป้นพิมพ์ลัด npdVNC",
     "1 - Toggle Control Panel": "1 - สลับแผงควบคุม",
     "2 - Toggle Game Pointer Mode": "2 - สลับโหมดตัวชี้เกม",
     "3 - Toggle Pointer Lock": "3 - ล็อคตัวชี้สลับ",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "ความสูงของโหมดวิดีโอ:",
     "Documentation": "เอกสาร",
     "Drag Viewport": "ลากวิวพอร์ต",
-    "KasmVNC encountered an error:": "KasmVNC พบข้อผิดพลาด:"
+    "npdVNC encountered an error:": "npdVNC พบข้อผิดพลาด:"
 }

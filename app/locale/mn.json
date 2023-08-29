@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Хяналтын самбарыг товчлуураар солих",
     "Render Native Resolution": "Үндсэн нарийвчлалыг харуулах",
     "Keyboard Shortcuts": "Гарын товчлол",
-    "Enable KasmVNC Keyboard Shortcuts": "KasmVNC гарын товчлолыг идэвхжүүлэх",
+    "Enable npdVNC Keyboard Shortcuts": "npdVNC гарын товчлолыг идэвхжүүлэх",
     "1 - Toggle Control Panel": "1 - Хяналтын самбарыг асаах/унтраах",
     "2 - Toggle Game Pointer Mode": "2 - Тоглоомын заагч горимыг асаах/унтраах",
     "3 - Toggle Pointer Lock": "3 - Заагч түгжээг сэлгэх",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Видео горимын өндөр:",
     "Documentation": "Баримт бичиг",
     "Drag Viewport": "Харах цонхыг чирэх",
-    "KasmVNC encountered an error:": "KasmVNC алдаа гарлаа:"
+    "npdVNC encountered an error:": "npdVNC алдаа гарлаа:"
 }

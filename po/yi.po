@@ -260,8 +260,8 @@ msgstr "עטאָלכאַה ןריובעג ןבעגסיוראַ"
 msgid "Keyboard Shortcuts"
 msgstr "ץאַקטראָש רוטאַיוואַלק"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "ץאַקטראָש רוטאַיוואַלק KasmVNC ןבעג"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "ץאַקטראָש רוטאַיוואַלק npdVNC ןבעג"
 
 msgid "1 - Toggle Control Panel"
 msgstr "לענאַפּ לאָרטנאָק לאַגאַט - 1"
@@ -350,5 +350,5 @@ msgstr "ןאָיטאַטנעמוקאָד"
 msgid "Drag Viewport"
 msgstr "טראָפּויוו ןפּעלש"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC תועט אַ טרעטנאָלפּעג:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC תועט אַ טרעטנאָלפּעג:"

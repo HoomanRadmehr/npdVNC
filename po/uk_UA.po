@@ -260,8 +260,8 @@ msgstr "Візуалізація рідної роздільної здатно�
 msgid "Keyboard Shortcuts"
 msgstr "Гарячі клавіши"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Увімкнути комбінації клавіш KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Увімкнути комбінації клавіш npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 – Перемкнути панель керування"
@@ -350,5 +350,5 @@ msgstr "Документація"
 msgid "Drag Viewport"
 msgstr "Перетягнути вікно перегляду"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC виявив помилку:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC виявив помилку:"

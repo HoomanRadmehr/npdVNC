@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Attiva/disattiva pannello di controllo tramite sequenze di tasti",
     "Render Native Resolution": "Risoluzione nativa del rendering",
     "Keyboard Shortcuts": "Tasti rapidi",
-    "Enable KasmVNC Keyboard Shortcuts": "Abilita le scorciatoie da tastiera di KasmVNC",
+    "Enable npdVNC Keyboard Shortcuts": "Abilita le scorciatoie da tastiera di npdVNC",
     "1 - Toggle Control Panel": "1 - Attiva/disattiva pannello di controllo",
     "2 - Toggle Game Pointer Mode": "2 - Attiva/disattiva modalità puntatore di gioco",
     "3 - Toggle Pointer Lock": "3 - Attiva/disattiva il blocco del puntatore",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Altezza modalità video:",
     "Documentation": "Documentazione",
     "Drag Viewport": "Trascina finestra",
-    "KasmVNC encountered an error:": "KasmVNC ha rilevato un errore:"
+    "npdVNC encountered an error:": "npdVNC ha rilevato un errore:"
 }

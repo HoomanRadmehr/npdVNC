@@ -260,8 +260,8 @@ msgstr "Rann rezolisyon natif natal"
 msgid "Keyboard Shortcuts"
 msgstr "Rakoursi klavye"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Pèmèt rakoursi klavye KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Pèmèt rakoursi klavye npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Activer panèl kontwòl"
@@ -350,5 +350,5 @@ msgstr "Dokimantasyon"
 msgid "Drag Viewport"
 msgstr "Trennen Viewport"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC te rankontre yon erè:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC te rankontre yon erè:"

@@ -260,8 +260,8 @@ msgstr "ﮟﯾﺮﮐ ﺶﯿﭘ ﺩﺍﺩﺭﺍﺮﻗ ﯽﺋﺎﺑﺁ"
 msgid "Keyboard Shortcuts"
 msgstr "ﺲﭩﮐ ﭦﺭﺎﺷ ﮈﺭﻮﺑ ﯽﮐ"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "KasmVNC ﮟﯾﺮﮐ ﻝﺎﻌﻓ ﻮﮐ ﭧﮐ ﭦﺭﺎﺷ ﮈﺭﻮﺑ ﯽﮐ"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "npdVNC ﮟﯾﺮﮐ ﻝﺎﻌﻓ ﻮﮐ ﭧﮐ ﭦﺭﺎﺷ ﮈﺭﻮﺑ ﯽﮐ"
 
 msgid "1 - Toggle Control Panel"
 msgstr "ﮟﯾﺮﮐ ﻞﮔﻮﭨ ﻮﮐ ﻞﻨﯿﭘ ﻝﻭﺮﭩﻨﮐ - 1"
@@ -350,5 +350,5 @@ msgstr "ﺕﺍﺰﯾﻭﺎﺘﺳﺩ"
 msgid "Drag Viewport"
 msgstr "ﭦﺭﻮﭘ ﻮﯾﻭ ﮓﯾﺭﮈ"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC ﺍﮍﭘ ﺎﻧﺮﮐ ﺎﻨﻣﺎﺳ ﺎﮐ ﯽﺑﺍﺮﺧ ﮏﯾﺍ ﻮﮐ:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC ﺍﮍﭘ ﺎﻧﺮﮐ ﺎﻨﻣﺎﺳ ﺎﮐ ﯽﺑﺍﺮﺧ ﮏﯾﺍ ﻮﮐ:"

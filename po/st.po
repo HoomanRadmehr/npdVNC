@@ -260,8 +260,8 @@ msgstr "Fana ka Qeto ea Naha"
 msgid "Keyboard Shortcuts"
 msgstr "Likhaoletso tsa Keyboard"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Lumella likhutšoane tsa keyboard ea KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Lumella likhutšoane tsa keyboard ea npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Toggle Control Panel"
@@ -350,5 +350,5 @@ msgstr "Litokomane"
 msgid "Drag Viewport"
 msgstr "Hula Viewport"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC e fumane phoso:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC e fumane phoso:"

@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Контроль панельне ачкычлар аша алыштырыгыз",
     "Render Native Resolution": "Туган як резолюциясе бирегез",
     "Keyboard Shortcuts": "Клавиатура кыска юллары",
-    "Enable KasmVNC Keyboard Shortcuts": "KasmVNC клавиатура кыска юлларын эшләгез",
+    "Enable npdVNC Keyboard Shortcuts": "npdVNC клавиатура кыска юлларын эшләгез",
     "1 - Toggle Control Panel": "1 - Контроль панельне алыштырыгыз",
     "2 - Toggle Game Pointer Mode": "2 - Уен күрсәткеч режимын алыштырыгыз",
     "3 - Toggle Pointer Lock": "3 - Күрсәткеч йозакны алыштырыгыз",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Видео режим биеклеге:",
     "Documentation": "Документация",
     "Drag Viewport": "Визпортны тарту",
-    "KasmVNC encountered an error:": "KasmVNC хата белән очрашты:"
+    "npdVNC encountered an error:": "npdVNC хата белән очрашты:"
 }

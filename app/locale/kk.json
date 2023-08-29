@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Басқару тақтасын пернелерді басу арқылы ауыстыру",
     "Render Native Resolution": "Негізгі ажыратымдылықты көрсету",
     "Keyboard Shortcuts": "Пернелер тіркесімі",
-    "Enable KasmVNC Keyboard Shortcuts": "KasmVNC пернелер тіркесімін қосу",
+    "Enable npdVNC Keyboard Shortcuts": "npdVNC пернелер тіркесімін қосу",
     "1 - Toggle Control Panel": "1 - Басқару тақтасын ауыстыру",
     "2 - Toggle Game Pointer Mode": "2 - Ойын көрсеткіші режимін ауыстыру",
     "3 - Toggle Pointer Lock": "3 - Меңзер құлпын ауыстыру",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Бейне режимінің биіктігі:",
     "Documentation": "Құжаттама",
     "Drag Viewport": "Көру алаңын сүйреу",
-    "KasmVNC encountered an error:": "KasmVNC қатеге тап болды:"
+    "npdVNC encountered an error:": "npdVNC қатеге тап болды:"
 }

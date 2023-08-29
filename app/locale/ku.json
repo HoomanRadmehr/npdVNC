@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Panela Kontrolê bi Bişkojka Bişkojka Veguhezîne",
     "Render Native Resolution": "Çareseriya xwecihî bidin",
     "Keyboard Shortcuts": "Kurteyên Klavyeyê",
-    "Enable KasmVNC Keyboard Shortcuts": "Kurteyên Klavyeyê KasmVNC çalak bike",
+    "Enable npdVNC Keyboard Shortcuts": "Kurteyên Klavyeyê npdVNC çalak bike",
     "1 - Toggle Control Panel": "1 - Panela Kontrolê Biguherîne",
     "2 - Toggle Game Pointer Mode": "2 - Moda Nîşana Lîstikê Biguherîne",
     "3 - Toggle Pointer Lock": "3 - Girtina Nîşanê Veguherîne",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Bilindahiya Moda Vîdyoyê:",
     "Documentation": "Belgekirin",
     "Drag Viewport": "Portê Dîmenê Kaş bikin",
-    "KasmVNC encountered an error:": "KasmVNC rastî xeletiyek hat:"
+    "npdVNC encountered an error:": "npdVNC rastî xeletiyek hat:"
 }

@@ -260,8 +260,8 @@ msgstr "Pateikti vietinę skiriamąją gebą"
 msgid "Keyboard Shortcuts"
 msgstr "Klaviatūros nuorodos"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Įgalinti KasmVNC sparčiuosius klavišus"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Įgalinti npdVNC sparčiuosius klavišus"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 – perjungti valdymo skydelį"
@@ -350,5 +350,5 @@ msgstr "Dokumentacija"
 msgid "Drag Viewport"
 msgstr "Drag Viewport"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC susidūrė su klaida:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC susidūrė su klaida:"

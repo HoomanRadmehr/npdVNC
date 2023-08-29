@@ -94,7 +94,7 @@
     "Toggle Control Panel via Keystrokes": "Toggle Configuratiescherm via toetsaanslagen",
     "Render Native Resolution": "Native resolutie weergeven",
     "Keyboard Shortcuts": "Toetsenbord sneltoetsen",
-    "Enable KasmVNC Keyboard Shortcuts": "KasmVNC-sneltoetsen inschakelen",
+    "Enable npdVNC Keyboard Shortcuts": "npdVNC-sneltoetsen inschakelen",
     "1 - Toggle Control Panel": "1 - Configuratiescherm omschakelen",
     "2 - Toggle Game Pointer Mode": "2 - Schakel Game Pointer-modus in",
     "3 - Toggle Pointer Lock": "3 - Aanwijzervergrendeling in-/uitschakelen",
@@ -124,5 +124,5 @@
     "Video Mode Height:": "Hoogte videomodus:",
     "Documentation": "Documentatie",
     "Drag Viewport": "Sleep Viewport",
-    "KasmVNC encountered an error:": "KasmVNC heeft een fout aangetroffen:"
+    "npdVNC encountered an error:": "npdVNC heeft een fout aangetroffen:"
 }

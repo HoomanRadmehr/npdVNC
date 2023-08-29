@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "ສະຫຼັບແຜງຄວບຄຸມດ້ວຍການກົດແປ້ນພິມ",
     "Render Native Resolution": "ສະແດງຄວາມລະອຽດເດີມ",
     "Keyboard Shortcuts": "ທາງລັດແປ້ນພິມ",
-    "Enable KasmVNC Keyboard Shortcuts": "ເປີດໃຊ້ປຸ່ມລັດ KasmVNC",
+    "Enable npdVNC Keyboard Shortcuts": "ເປີດໃຊ້ປຸ່ມລັດ npdVNC",
     "1 - Toggle Control Panel": "1 - ສະຫຼັບແຜງຄວບຄຸມ",
     "2 - Toggle Game Pointer Mode": "2 - ສະຫຼັບໂໝດຕົວຊີ້ເກມ",
     "3 - Toggle Pointer Lock": "3 - ສະຫຼັບຕົວຊີ້ຕົວຊີ້",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "ຄວາມສູງຂອງໂໝດວິດີໂອ:",
     "Documentation": "ເອກະສານ",
     "Drag Viewport": "Drag Viewport",
-    "KasmVNC encountered an error:": "KasmVNC ພົບຂໍ້ຜິດພາດ:"
+    "npdVNC encountered an error:": "npdVNC ພົບຂໍ້ຜິດພາດ:"
 }

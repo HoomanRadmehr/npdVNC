@@ -260,8 +260,8 @@ msgstr "Samar da Ƙaddamar Ƙarshen Ƙasa"
 msgid "Keyboard Shortcuts"
 msgstr "Gajerun hanyoyin Allon madannai"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Kunna KasmVNC Gajerun hanyoyin Allon madannai"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Kunna npdVNC Gajerun hanyoyin Allon madannai"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Kunna Control Panel"
@@ -350,5 +350,5 @@ msgstr "Takardu"
 msgid "Drag Viewport"
 msgstr "Jawo Viewport"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC ya ci karo da kuskure:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC ya ci karo da kuskure:"

@@ -260,8 +260,8 @@ msgstr "Lewer oorspronklike resolusie"
 msgid "Keyboard Shortcuts"
 msgstr "Sleutelbord kortpaaie"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Aktiveer KasmVNC-sleutelbordkortpaaie"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Aktiveer npdVNC-sleutelbordkortpaaie"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Wissel beheerpaneel"
@@ -350,5 +350,5 @@ msgstr "Dokumentasie"
 msgid "Drag Viewport"
 msgstr "Sleep Viewport"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC het 'n fout teëgekom:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC het 'n fout teëgekom:"

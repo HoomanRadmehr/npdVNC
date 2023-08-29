@@ -260,8 +260,8 @@ msgstr "I-render ang Native Resolution"
 msgid "Keyboard Shortcuts"
 msgstr "Mga Keyboard Shortcut"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Paganahin ang KasmVNC Keyboard Shortcuts"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Paganahin ang npdVNC Keyboard Shortcuts"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - I-toggle ang Control Panel"
@@ -350,5 +350,5 @@ msgstr "Dokumentasyon"
 msgid "Drag Viewport"
 msgstr "I-drag ang Viewport"
 
-msgid "KasmVNC encountered an error:"
-msgstr "Nakaranas ng error ang KasmVNC:"
+msgid "npdVNC encountered an error:"
+msgstr "Nakaranas ng error ang npdVNC:"

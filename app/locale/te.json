@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "కీస్ట్రోక్u200cల ద్వారా కంట్రోల్ ప్యానెల్u200cని టోగుల్ చేయండి",
     "Render Native Resolution": "రెండర్ స్థానిక రిజల్యూషన్",
     "Keyboard Shortcuts": "కీబోర్డ్ సత్వరమార్గాలు",
-    "Enable KasmVNC Keyboard Shortcuts": "KasmVNC కీబోర్డ్ సత్వరమార్గాలను ప్రారంభించు",
+    "Enable npdVNC Keyboard Shortcuts": "npdVNC కీబోర్డ్ సత్వరమార్గాలను ప్రారంభించు",
     "1 - Toggle Control Panel": "1 - కంట్రోల్ ప్యానెల్u200cని టోగుల్ చేయి",
     "2 - Toggle Game Pointer Mode": "2 - గేమ్ పాయింటర్ మోడ్u200cని టోగుల్ చేయండి",
     "3 - Toggle Pointer Lock": "3 - పాయింటర్ లాక్u200cని టోగుల్ చేయి",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "వీడియో మోడ్ ఎత్తు:",
     "Documentation": "డాక్యుమెంటేషన్",
     "Drag Viewport": "డ్రాగ్ వ్యూపోర్ట్",
-    "KasmVNC encountered an error:": "KasmVNC లోపాన్ని ఎదుర్కొంది:"
+    "npdVNC encountered an error:": "npdVNC లోపాన్ని ఎదుర్కొంది:"
 }

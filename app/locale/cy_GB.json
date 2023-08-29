@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Toggle Control Panel trwy Keystrokes",
     "Render Native Resolution": "Rendro Datrysiad Brodorol",
     "Keyboard Shortcuts": "Llwybrau byr bysellfwrdd",
-    "Enable KasmVNC Keyboard Shortcuts": "Galluogi Llwybrau Byr Bysellfwrdd KasmVNC",
+    "Enable npdVNC Keyboard Shortcuts": "Galluogi Llwybrau Byr Bysellfwrdd npdVNC",
     "1 - Toggle Control Panel": "1 - Toglo Panel Rheoli",
     "2 - Toggle Game Pointer Mode": "2 - Toglo Modd Pwyntiwr Gêm",
     "3 - Toggle Pointer Lock": "3 - Toggle Pointer Lock",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Uchder Modd Fideo:",
     "Documentation": "Dogfennaeth",
     "Drag Viewport": "Llusgwch Viewport",
-    "KasmVNC encountered an error:": "Mae KasmVNC wedi dod ar draws gwall:"
+    "npdVNC encountered an error:": "Mae npdVNC wedi dod ar draws gwall:"
 }

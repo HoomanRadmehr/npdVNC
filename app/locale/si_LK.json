@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "යතුරු පහර හරහා පාලන පැනලය ටොගල් කරන්න",
     "Render Native Resolution": "දේශීය විභේදනය ඉදිරිපත් කරන්න",
     "Keyboard Shortcuts": "යතුරුපුවරු කෙටිමං",
-    "Enable KasmVNC Keyboard Shortcuts": "KasmVNC යතුරුපුවරු කෙටිමං සබල කරන්න",
+    "Enable npdVNC Keyboard Shortcuts": "npdVNC යතුරුපුවරු කෙටිමං සබල කරන්න",
     "1 - Toggle Control Panel": "1 - පාලක පැනලය ටොගල් කරන්න",
     "2 - Toggle Game Pointer Mode": "2 - ටොගල් ගේම් පොයින්ටර් මාදිලිය",
     "3 - Toggle Pointer Lock": "3 - ටොගල් පොයින්ටර් ලොක්",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "වීඩියෝ මාදිලියේ උස:",
     "Documentation": "ලේඛන",
     "Drag Viewport": "Drag Viewport",
-    "KasmVNC encountered an error:": "KasmVNC දෝෂයක් ඇති විය:"
+    "npdVNC encountered an error:": "npdVNC දෝෂයක් ඇති විය:"
 }

@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Toggle Kontwòl Panel atravè Keystrokes",
     "Render Native Resolution": "Rann rezolisyon natif natal",
     "Keyboard Shortcuts": "Rakoursi klavye",
-    "Enable KasmVNC Keyboard Shortcuts": "Pèmèt rakoursi klavye KasmVNC",
+    "Enable npdVNC Keyboard Shortcuts": "Pèmèt rakoursi klavye npdVNC",
     "1 - Toggle Control Panel": "1 - Activer panèl kontwòl",
     "2 - Toggle Game Pointer Mode": "2 - Activer mòd Pointer jwèt",
     "3 - Toggle Pointer Lock": "3 - Aktive Pointer Lock",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Watè mòd videyo:",
     "Documentation": "Dokimantasyon",
     "Drag Viewport": "Trennen Viewport",
-    "KasmVNC encountered an error:": "KasmVNC te rankontre yon erè:"
+    "npdVNC encountered an error:": "npdVNC te rankontre yon erè:"
 }

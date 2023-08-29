@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Keystrokes မှတဆင့် Control Panel ကိုပြောင်းရန်",
     "Render Native Resolution": "ဇာတိဆုံးဖြတ်ချက်ကို တင်ဆက်ခြင်း",
     "Keyboard Shortcuts": "ကီးဘုတ်ဖြတ်လမ်းများ",
-    "Enable KasmVNC Keyboard Shortcuts": "KasmVNC ကီးဘုတ်ဖြတ်လမ်းများကိုဖွင့်ပါ",
+    "Enable npdVNC Keyboard Shortcuts": "npdVNC ကီးဘုတ်ဖြတ်လမ်းများကိုဖွင့်ပါ",
     "1 - Toggle Control Panel": "1 - Control Panel ကို ပြောင်းရန်",
     "2 - Toggle Game Pointer Mode": "2 - Game Pointer Mode ကို ပြောင်းရန်",
     "3 - Toggle Pointer Lock": "3 - Pointer Lock ကို ပြောင်းရန်",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "ဗီဒီယိုမုဒ် အမြင့်-",
     "Documentation": "စာရွက်စာတမ်း",
     "Drag Viewport": "ရှုထောင့်ကို ဆွဲယူပါ",
-    "KasmVNC encountered an error:": "KasmVNC သည် အမှားအယွင်းတစ်ခု ကြုံတွေ့ခဲ့သည်-"
+    "npdVNC encountered an error:": "npdVNC သည် အမှားအယွင်းတစ်ခု ကြုံတွေ့ခဲ့သည်-"
 }

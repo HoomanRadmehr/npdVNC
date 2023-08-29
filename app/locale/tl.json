@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "I-toggle ang Control Panel sa pamamagitan ng mga Keystroke",
     "Render Native Resolution": "I-render ang Native Resolution",
     "Keyboard Shortcuts": "Mga Keyboard Shortcut",
-    "Enable KasmVNC Keyboard Shortcuts": "Paganahin ang KasmVNC Keyboard Shortcuts",
+    "Enable npdVNC Keyboard Shortcuts": "Paganahin ang npdVNC Keyboard Shortcuts",
     "1 - Toggle Control Panel": "1 - I-toggle ang Control Panel",
     "2 - Toggle Game Pointer Mode": "2 - I-toggle ang Game Pointer Mode",
     "3 - Toggle Pointer Lock": "3 - I-toggle ang Pointer Lock",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Taas ng Video Mode:",
     "Documentation": "Dokumentasyon",
     "Drag Viewport": "I-drag ang Viewport",
-    "KasmVNC encountered an error:": "Nakaranas ng error ang KasmVNC:"
+    "npdVNC encountered an error:": "Nakaranas ng error ang npdVNC:"
 }

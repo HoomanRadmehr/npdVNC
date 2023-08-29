@@ -260,8 +260,8 @@ msgstr "Rendro Datrysiad Brodorol"
 msgid "Keyboard Shortcuts"
 msgstr "Llwybrau byr bysellfwrdd"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Galluogi Llwybrau Byr Bysellfwrdd KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Galluogi Llwybrau Byr Bysellfwrdd npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Toglo Panel Rheoli"
@@ -350,5 +350,5 @@ msgstr "Dogfennaeth"
 msgid "Drag Viewport"
 msgstr "Llusgwch Viewport"
 
-msgid "KasmVNC encountered an error:"
-msgstr "Mae KasmVNC wedi dod ar draws gwall:"
+msgid "npdVNC encountered an error:"
+msgstr "Mae npdVNC wedi dod ar draws gwall:"

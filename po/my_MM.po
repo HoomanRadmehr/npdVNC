@@ -260,8 +260,8 @@ msgstr "ဇာတိဆုံးဖြတ်ချက်ကို တင်ဆ�
 msgid "Keyboard Shortcuts"
 msgstr "ကီးဘုတ်ဖြတ်လမ်းများ"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "KasmVNC ကီးဘုတ်ဖြတ်လမ်းများကိုဖွင့်ပါ"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "npdVNC ကီးဘုတ်ဖြတ်လမ်းများကိုဖွင့်ပါ"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Control Panel ကို ပြောင်းရန်"
@@ -350,5 +350,5 @@ msgstr "စာရွက်စာတမ်း"
 msgid "Drag Viewport"
 msgstr "ရှုထောင့်ကို ဆွဲယူပါ"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC သည် အမှားအယွင်းတစ်ခု ကြုံတွေ့ခဲ့သည်-"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC သည် အမှားအယွင်းတစ်ခု ကြုံတွေ့ခဲ့သည်-"

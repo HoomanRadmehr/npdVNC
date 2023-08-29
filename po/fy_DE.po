@@ -260,8 +260,8 @@ msgstr "Render Native Resolution"
 msgid "Keyboard Shortcuts"
 msgstr "Sneltoetsen"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "KasmVNC-toetseboerd fluchtoetsen ynskeakelje"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "npdVNC-toetseboerd fluchtoetsen ynskeakelje"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Skeakelje kontrôlepaniel"
@@ -350,5 +350,5 @@ msgstr "Dokumintaasje"
 msgid "Drag Viewport"
 msgstr "Sleep Viewport"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC tsjinkaam in flater:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC tsjinkaam in flater:"

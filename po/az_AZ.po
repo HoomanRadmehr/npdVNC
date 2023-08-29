@@ -260,8 +260,8 @@ msgstr "Doğma Çözünürlük göstərin"
 msgid "Keyboard Shortcuts"
 msgstr "Klaviatura Qısayolları"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "KasmVNC Klaviatura Qısayollarını Aktivləşdirin"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "npdVNC Klaviatura Qısayollarını Aktivləşdirin"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - İdarəetmə Panelini dəyişdirin"
@@ -350,5 +350,5 @@ msgstr "Sənədlər"
 msgid "Drag Viewport"
 msgstr "Görünüş sahəsini sürükləyin"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC xəta ilə qarşılaşdı:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC xəta ilə qarşılaşdı:"

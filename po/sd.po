@@ -260,8 +260,8 @@ msgstr "ﻮﻳﺮڪ ﺶﻴﭘ ﺩﺍﺩﺭﺍﺮﻗ ﻲﻣﺎﻘﻣ"
 msgid "Keyboard Shortcuts"
 msgstr "ﺲٽڪ ٽﺭﺎﺷ ڊﺭﻮﺑ ﻲڪ"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "KasmVNC ﻮﻳﺮڪ ﻝﺎﻌﻓ ﻲﮐ ﺲٽڪ ٽﺭﺎﺷ ڊﺭﻮﺑ ﻲڪ"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "npdVNC ﻮﻳﺮڪ ﻝﺎﻌﻓ ﻲﮐ ﺲٽڪ ٽﺭﺎﺷ ڊﺭﻮﺑ ﻲڪ"
 
 msgid "1 - Toggle Control Panel"
 msgstr "ﻮﻳﺮڪ ﻞﮔﻮٽ ﻲﮐ ﻞﻨﻴﭘ ﻝﻭﺮٽﻨڪ - 1"
@@ -350,5 +350,5 @@ msgstr "ﺰﻳﻭﺎﺘﺳﺩ"
 msgid "Drag Viewport"
 msgstr "ٽﺭﻮﭘ ﻮﺌﻳڏ ﻮﻳڏﮀ"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC ﻮﻴڪ ﻦﻬﻨﻣ ﻥﺎﺳ ﻲﻄﻠﻏ ڪﻫ:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC ﻮﻴڪ ﻦﻬﻨﻣ ﻥﺎﺳ ﻲﻄﻠﻏ ڪﻫ:"

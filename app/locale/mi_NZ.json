@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Tahurihia te Paewhiri Mana ma te Patua",
     "Render Native Resolution": "Whakaahua Whakatau Maori",
     "Keyboard Shortcuts": "Pokatata Papapātuhi",
-    "Enable KasmVNC Keyboard Shortcuts": "Whakahohehia nga Pokatata Papapātuhi KasmVNC",
+    "Enable npdVNC Keyboard Shortcuts": "Whakahohehia nga Pokatata Papapātuhi npdVNC",
     "1 - Toggle Control Panel": "1 - Takahuri Paewhiri Mana",
     "2 - Toggle Game Pointer Mode": "2 - Takahuri Aratau Aratohu Kēmu",
     "3 - Toggle Pointer Lock": "3 - Takahuri Maukati Aratohu",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Teitei Aratau Ataata:",
     "Documentation": "Tuhinga",
     "Drag Viewport": "Toia Tauranga Tirohanga",
-    "KasmVNC encountered an error:": "I hapa a KasmVNC:"
+    "npdVNC encountered an error:": "I hapa a npdVNC:"
 }

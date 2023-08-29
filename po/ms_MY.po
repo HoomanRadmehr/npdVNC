@@ -260,8 +260,8 @@ msgstr "Render Native Resolution"
 msgid "Keyboard Shortcuts"
 msgstr "Pintasan Papan Kekunci"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Dayakan Pintasan Papan Kekunci KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Dayakan Pintasan Papan Kekunci npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Togol Panel Kawalan"
@@ -350,5 +350,5 @@ msgstr "Dokumentasi"
 msgid "Drag Viewport"
 msgstr "Seret Viewport"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC mengalami ralat:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC mengalami ralat:"

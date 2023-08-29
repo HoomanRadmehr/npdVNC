@@ -260,8 +260,8 @@ msgstr "ສະແດງຄວາມລະອຽດເດີມ"
 msgid "Keyboard Shortcuts"
 msgstr "ທາງລັດແປ້ນພິມ"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "ເປີດໃຊ້ປຸ່ມລັດ KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "ເປີດໃຊ້ປຸ່ມລັດ npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - ສະຫຼັບແຜງຄວບຄຸມ"
@@ -350,5 +350,5 @@ msgstr "ເອກະສານ"
 msgid "Drag Viewport"
 msgstr "Drag Viewport"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC ພົບຂໍ້ຜິດພາດ:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC ພົບຂໍ້ຜິດພາດ:"

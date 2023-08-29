@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Баскыруу панелин баскычтар аркылуу которуу",
     "Render Native Resolution": "Түпкү резолюцияны көрсөтүү",
     "Keyboard Shortcuts": "Клавиатуранын жарлыктары",
-    "Enable KasmVNC Keyboard Shortcuts": "KasmVNC баскычтопту иштетүү",
+    "Enable npdVNC Keyboard Shortcuts": "npdVNC баскычтопту иштетүү",
     "1 - Toggle Control Panel": "1 - Башкаруу панелин которуу",
     "2 - Toggle Game Pointer Mode": "2 - Оюн көрсөткүчү режимин которуштуруу",
     "3 - Toggle Pointer Lock": "3 - Көрсөткүч кулпусун которуштуруу",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Видео режиминин бийиктиги:",
     "Documentation": "Документтер",
     "Drag Viewport": "Көрүү портун сүйрөө",
-    "KasmVNC encountered an error:": "KasmVNC катага туш болду:"
+    "npdVNC encountered an error:": "npdVNC катага туш болду:"
 }

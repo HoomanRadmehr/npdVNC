@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Prebacivanje upravljačke ploče pomoću tipki",
     "Render Native Resolution": "Renderiraj izvornu razlučivost",
     "Keyboard Shortcuts": "Tipkovni prečaci",
-    "Enable KasmVNC Keyboard Shortcuts": "Omogući KasmVNC tipkovničke prečace",
+    "Enable npdVNC Keyboard Shortcuts": "Omogući npdVNC tipkovničke prečace",
     "1 - Toggle Control Panel": "1 - Uključi/isključi upravljačku ploču",
     "2 - Toggle Game Pointer Mode": "2 - Uključi/isključi način rada pokazivača igre",
     "3 - Toggle Pointer Lock": "3 - Uključi/isključi zaključavanje pokazivača",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Visina video načina rada:",
     "Documentation": "Dokumentacija",
     "Drag Viewport": "Povucite okvir za prikaz",
-    "KasmVNC encountered an error:": "KasmVNC je naišao na pogrešku:"
+    "npdVNC encountered an error:": "npdVNC je naišao na pogrešku:"
 }

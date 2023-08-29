@@ -260,8 +260,8 @@ msgstr "Render Taifeach Dúchasach"
 msgid "Keyboard Shortcuts"
 msgstr "Aicearraí méarchláir"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Cumasaigh Aicearraí Méarchláir KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Cumasaigh Aicearraí Méarchláir npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Scoránaigh Painéal Rialúcháin"
@@ -350,5 +350,5 @@ msgstr "Doiciméad"
 msgid "Drag Viewport"
 msgstr "Tarraing Viewport"
 
-msgid "KasmVNC encountered an error:"
-msgstr "Tharla earráid i KasmVNC:"
+msgid "npdVNC encountered an error:"
+msgstr "Tharla earráid i npdVNC:"

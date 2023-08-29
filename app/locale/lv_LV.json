@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Pārslēgt vadības paneli, izmantojot taustiņsitienus",
     "Render Native Resolution": "Render Native Resolution",
     "Keyboard Shortcuts": "Tastatūras īsinājumtaustiņi",
-    "Enable KasmVNC Keyboard Shortcuts": "Iespējot KasmVNC īsinājumtaustiņus",
+    "Enable npdVNC Keyboard Shortcuts": "Iespējot npdVNC īsinājumtaustiņus",
     "1 - Toggle Control Panel": "1 — pārslēgt vadības paneli",
     "2 - Toggle Game Pointer Mode": "2 — pārslēgt spēles rādītāja režīmu",
     "3 - Toggle Pointer Lock": "3 — pārslēgt rādītāja bloķēšanu",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Video režīma augstums:",
     "Documentation": "Dokumentācija",
     "Drag Viewport": "Velciet skata logu",
-    "KasmVNC encountered an error:": "KasmVNC radās kļūda:"
+    "npdVNC encountered an error:": "npdVNC radās kļūda:"
 }

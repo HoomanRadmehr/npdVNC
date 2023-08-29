@@ -260,8 +260,8 @@ msgstr "రెండర్ స్థానిక రిజల్యూషన్"
 msgid "Keyboard Shortcuts"
 msgstr "కీబోర్డ్ సత్వరమార్గాలు"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "KasmVNC కీబోర్డ్ సత్వరమార్గాలను ప్రారంభించు"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "npdVNC కీబోర్డ్ సత్వరమార్గాలను ప్రారంభించు"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - కంట్రోల్ ప్యానెల్u200cని టోగుల్ చేయి"
@@ -350,5 +350,5 @@ msgstr "డాక్యుమెంటేషన్"
 msgid "Drag Viewport"
 msgstr "డ్రాగ్ వ్యూపోర్ట్"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC లోపాన్ని ఎదుర్కొంది:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC లోపాన్ని ఎదుర్కొంది:"

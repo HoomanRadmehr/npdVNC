@@ -260,8 +260,8 @@ msgstr "Ṣe Ipinnu Ilu abinibi"
 msgid "Keyboard Shortcuts"
 msgstr "Awọn ọna abuja keyboard"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Mu awọn ọna abuja Keyboard KasmVNC ṣiṣẹ"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Mu awọn ọna abuja Keyboard npdVNC ṣiṣẹ"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Panel Iṣakoso Yipada"
@@ -350,5 +350,5 @@ msgstr "Iwe iwe"
 msgid "Drag Viewport"
 msgstr "Fa Wiwo"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC pade aṣiṣe kan:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC pade aṣiṣe kan:"

@@ -260,8 +260,8 @@ msgstr "Изнеси мајчин резолуција"
 msgid "Keyboard Shortcuts"
 msgstr "Кратенки на тастатурата"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Овозможи кратенки на тастатура KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Овозможи кратенки на тастатура npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Вклучи контролен панел"
@@ -350,5 +350,5 @@ msgstr "Документација"
 msgid "Drag Viewport"
 msgstr "Повлечете го погледот"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC наиде на грешка:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC наиде на грешка:"

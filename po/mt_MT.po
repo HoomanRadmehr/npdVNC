@@ -260,8 +260,8 @@ msgstr "Irrendi Riżoluzzjoni Nattiva"
 msgid "Keyboard Shortcuts"
 msgstr "Shortcuts tat-Tastiera"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Ippermetti KasmVNC Shortcuts tat-Tastiera"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Ippermetti npdVNC Shortcuts tat-Tastiera"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Toggle Control Panel"
@@ -350,5 +350,5 @@ msgstr "Dokumentazzjoni"
 msgid "Drag Viewport"
 msgstr "Dragg Viewport"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC iltaqa' ma' żball:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC iltaqa' ma' żball:"

@@ -349,8 +349,8 @@ msgstr "Render Native Resolution"
 msgid "Keyboard Shortcuts"
 msgstr "Tangentbordsgenvägar"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Aktivera KasmVNC tangentbordsgenvägar"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Aktivera npdVNC tangentbordsgenvägar"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Växla kontrollpanelen"
@@ -439,5 +439,5 @@ msgstr "Dokumentation"
 msgid "Drag Viewport"
 msgstr "Dra Viewport"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC stötte på ett fel:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC stötte på ett fel:"

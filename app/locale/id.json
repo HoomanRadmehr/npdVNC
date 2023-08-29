@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Beralih Panel Kontrol melalui Keystrokes",
     "Render Native Resolution": "Buat Resolusi Asli",
     "Keyboard Shortcuts": "Pintasan Keyboard",
-    "Enable KasmVNC Keyboard Shortcuts": "Aktifkan Pintasan Keyboard KasmVNC",
+    "Enable npdVNC Keyboard Shortcuts": "Aktifkan Pintasan Keyboard npdVNC",
     "1 - Toggle Control Panel": "1 - Alihkan Panel Kontrol",
     "2 - Toggle Game Pointer Mode": "2 - Alihkan Mode Penunjuk Permainan",
     "3 - Toggle Pointer Lock": "3 - Alihkan Kunci Penunjuk",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Tinggi Mode Video:",
     "Documentation": "Dokumentasi",
     "Drag Viewport": "Seret Area Pandang",
-    "KasmVNC encountered an error:": "KasmVNC mengalami kesalahan:"
+    "npdVNC encountered an error:": "npdVNC mengalami kesalahan:"
 }

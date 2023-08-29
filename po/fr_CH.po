@@ -260,8 +260,8 @@ msgstr "Rendre la résolution native"
 msgid "Keyboard Shortcuts"
 msgstr "Raccourcis clavier"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Activer les raccourcis clavier KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Activer les raccourcis clavier npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Basculer le panneau de configuration"
@@ -350,5 +350,5 @@ msgstr "Documentation"
 msgid "Drag Viewport"
 msgstr "Faire glisser la fenêtre"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC a rencontré une erreur :"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC a rencontré une erreur :"

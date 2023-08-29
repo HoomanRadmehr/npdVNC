@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "কীস্ট্রোকের মাধ্যমে কন্ট্রোল প্যানেল টগল করুন",
     "Render Native Resolution": "নেটিভ রেজোলিউশন রেন্ডার করুন",
     "Keyboard Shortcuts": "কীবোর্ড শর্টকাট",
-    "Enable KasmVNC Keyboard Shortcuts": "KasmVNC কীবোর্ড শর্টকাট সক্ষম করুন",
+    "Enable npdVNC Keyboard Shortcuts": "npdVNC কীবোর্ড শর্টকাট সক্ষম করুন",
     "1 - Toggle Control Panel": "1 - কন্ট্রোল প্যানেল টগল করুন",
     "2 - Toggle Game Pointer Mode": "2 - গেম পয়েন্টার মোড টগল করুন",
     "3 - Toggle Pointer Lock": "3 - পয়েন্টার লক টগল করুন",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "ভিডিও মোড উচ্চতা:",
     "Documentation": "ডকুমেন্টেশন",
     "Drag Viewport": "ভিউপোর্ট টানুন",
-    "KasmVNC encountered an error:": "KasmVNC একটি ত্রুটির সম্মুখীন হয়েছে:"
+    "npdVNC encountered an error:": "npdVNC একটি ত্রুটির সম্মুখীন হয়েছে:"
 }

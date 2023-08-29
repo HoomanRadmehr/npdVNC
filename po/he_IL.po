@@ -260,8 +260,8 @@ msgstr "תירוקמ היצולוזר דוביע"
 msgid "Keyboard Shortcuts"
 msgstr "תדלקמב ךרד ירוציק"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "KasmVNC לש םישקמ ירוציק לעפה"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "npdVNC לש םישקמ ירוציק לעפה"
 
 msgid "1 - Toggle Control Panel"
 msgstr "הרקבה חול תא ףלחה - 1"
@@ -350,5 +350,5 @@ msgstr "דועית"
 msgid "Drag Viewport"
 msgstr "טבמ תדוקנ רורג"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC האיגשב לקתנ:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC האיגשב לקתנ:"

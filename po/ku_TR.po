@@ -260,8 +260,8 @@ msgstr "Çareseriya xwecihî bidin"
 msgid "Keyboard Shortcuts"
 msgstr "Kurteyên Klavyeyê"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Kurteyên Klavyeyê KasmVNC çalak bike"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Kurteyên Klavyeyê npdVNC çalak bike"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Panela Kontrolê Biguherîne"
@@ -350,5 +350,5 @@ msgstr "Belgekirin"
 msgid "Drag Viewport"
 msgstr "Portê Dîmenê Kaş bikin"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC rastî xeletiyek hat:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC rastî xeletiyek hat:"

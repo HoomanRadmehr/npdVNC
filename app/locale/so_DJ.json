@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Ku beddel kontoroolka furaha",
     "Render Native Resolution": "Samee Qaraarka Dhaladka",
     "Keyboard Shortcuts": "Keyboodhka Gaaban",
-    "Enable KasmVNC Keyboard Shortcuts": "Kor-geli KasmVNC Kiiboodhka Gaaban",
+    "Enable npdVNC Keyboard Shortcuts": "Kor-geli npdVNC Kiiboodhka Gaaban",
     "1 - Toggle Control Panel": "1 - Beddel kontoroolka",
     "2 - Toggle Game Pointer Mode": "2 - Beddel Habka Tilmaamaha Ciyaarta",
     "3 - Toggle Pointer Lock": "3 - Beddel Qufulka Tilmaamaha",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Habka Fiidiyowga Dhererka:",
     "Documentation": "Documentation",
     "Drag Viewport": "Deegaanka Jiid",
-    "KasmVNC encountered an error:": "KasmVNC waxay la kulantay cilad:"
+    "npdVNC encountered an error:": "npdVNC waxay la kulantay cilad:"
 }

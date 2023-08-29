@@ -94,7 +94,7 @@
     "Toggle Control Panel via Keystrokes": "Přepnout ovládací panel pomocí kláves",
     "Render Native Resolution": "Vykreslit nativní rozlišení",
     "Keyboard Shortcuts": "Klávesové zkratky",
-    "Enable KasmVNC Keyboard Shortcuts": "Povolit klávesové zkratky KasmVNC",
+    "Enable npdVNC Keyboard Shortcuts": "Povolit klávesové zkratky npdVNC",
     "1 - Toggle Control Panel": "1 - Přepnout ovládací panel",
     "2 - Toggle Game Pointer Mode": "2 - Přepnout režim ukazatele hry",
     "3 - Toggle Pointer Lock": "3 - Přepnout zámek ukazatele",
@@ -124,5 +124,5 @@
     "Video Mode Height:": "Výška režimu videa:",
     "Documentation": "Dokumentace",
     "Drag Viewport": "Přetáhnout výřez",
-    "KasmVNC encountered an error:": "KasmVNC narazil na chybu:"
+    "npdVNC encountered an error:": "npdVNC narazil na chybu:"
 }

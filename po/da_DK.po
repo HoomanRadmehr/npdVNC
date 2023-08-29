@@ -260,8 +260,8 @@ msgstr "Gengiver oprindelig opløsning"
 msgid "Keyboard Shortcuts"
 msgstr "Tastaturgenveje"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Aktiver KasmVNC-tastaturgenveje"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Aktiver npdVNC-tastaturgenveje"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Skift kontrolpanel"
@@ -350,5 +350,5 @@ msgstr "Dokumentation"
 msgid "Drag Viewport"
 msgstr "Træk visningsport"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC stødte på en fejl:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC stødte på en fejl:"

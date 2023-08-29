@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Ndrysho panelin e kontrollit nëpërmjet goditjeve të tasteve",
     "Render Native Resolution": "Render Native Resolution",
     "Keyboard Shortcuts": "Shkurtoret e tastierës",
-    "Enable KasmVNC Keyboard Shortcuts": "Aktivizo shkurtoret e tastierës KasmVNC",
+    "Enable npdVNC Keyboard Shortcuts": "Aktivizo shkurtoret e tastierës npdVNC",
     "1 - Toggle Control Panel": "1 - Ndrysho panelin e kontrollit",
     "2 - Toggle Game Pointer Mode": "2 - Ndrysho modalitetin e treguesit të lojës",
     "3 - Toggle Pointer Lock": "3 - Ndrysho kyçjen e treguesit",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Lartësia e modalitetit të videos:",
     "Documentation": "Dokumentacioni",
     "Drag Viewport": "Zvarrit portin e shikimit",
-    "KasmVNC encountered an error:": "KasmVNC hasi në një gabim:"
+    "npdVNC encountered an error:": "npdVNC hasi në një gabim:"
 }

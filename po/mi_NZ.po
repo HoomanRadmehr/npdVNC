@@ -260,8 +260,8 @@ msgstr "Whakaahua Whakatau Maori"
 msgid "Keyboard Shortcuts"
 msgstr "Pokatata Papapātuhi"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Whakahohehia nga Pokatata Papapātuhi KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Whakahohehia nga Pokatata Papapātuhi npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Takahuri Paewhiri Mana"
@@ -350,5 +350,5 @@ msgstr "Tuhinga"
 msgid "Drag Viewport"
 msgstr "Toia Tauranga Tirohanga"
 
-msgid "KasmVNC encountered an error:"
-msgstr "I hapa a KasmVNC:"
+msgid "npdVNC encountered an error:"
+msgstr "I hapa a npdVNC:"

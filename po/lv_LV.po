@@ -260,8 +260,8 @@ msgstr "Render Native Resolution"
 msgid "Keyboard Shortcuts"
 msgstr "Tastatūras īsinājumtaustiņi"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Iespējot KasmVNC īsinājumtaustiņus"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Iespējot npdVNC īsinājumtaustiņus"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 — pārslēgt vadības paneli"
@@ -350,5 +350,5 @@ msgstr "Dokumentācija"
 msgid "Drag Viewport"
 msgstr "Velciet skata logu"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC radās kļūda:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC radās kļūda:"

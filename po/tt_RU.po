@@ -260,8 +260,8 @@ msgstr "Туган як резолюциясе бирегез"
 msgid "Keyboard Shortcuts"
 msgstr "Клавиатура кыска юллары"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "KasmVNC клавиатура кыска юлларын эшләгез"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "npdVNC клавиатура кыска юлларын эшләгез"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Контроль панельне алыштырыгыз"
@@ -350,5 +350,5 @@ msgstr "Документация"
 msgid "Drag Viewport"
 msgstr "Визпортны тарту"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC хата белән очрашты:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC хата белән очрашты:"

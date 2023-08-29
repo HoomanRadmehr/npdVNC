@@ -260,8 +260,8 @@ msgstr "ቤተኛ መፍትሄ ስጥ"
 msgid "Keyboard Shortcuts"
 msgstr "የቁልፍ ሰሌዳ አቋራጮች"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "KasmVNC ቁልፍ ሰሌዳ አቋራጮችን አንቃ"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "npdVNC ቁልፍ ሰሌዳ አቋራጮችን አንቃ"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - የቁጥጥር ፓነልን ቀይር"
@@ -350,5 +350,5 @@ msgstr "ሰነድ"
 msgid "Drag Viewport"
 msgstr "መመልከቻ ጎትት"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC ስህተት አጋጥሞታል::"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC ስህተት አጋጥሞታል::"

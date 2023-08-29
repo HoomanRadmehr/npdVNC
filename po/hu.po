@@ -260,8 +260,8 @@ msgstr "Render Native Resolution"
 msgid "Keyboard Shortcuts"
 msgstr "Gyorsbillentyűket"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "A KasmVNC billentyűparancsok engedélyezése"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "A npdVNC billentyűparancsok engedélyezése"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Vezérlőpult váltása"
@@ -350,5 +350,5 @@ msgstr "Dokumentáció"
 msgid "Drag Viewport"
 msgstr "Nézetablak húzása"
 
-msgid "KasmVNC encountered an error:"
-msgstr "A KasmVNC hibát észlelt:"
+msgid "npdVNC encountered an error:"
+msgstr "A npdVNC hibát észlelt:"

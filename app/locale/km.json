@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "បិទ/បើកផ្ទាំងបញ្ជាតាមរយៈការចុចគ្រាប់ចុច",
     "Render Native Resolution": "បង្ហាញដំណោះស្រាយដើម",
     "Keyboard Shortcuts": "ផ្លូវកាត់ក្តារចុច",
-    "Enable KasmVNC Keyboard Shortcuts": "បើកផ្លូវកាត់ក្តារចុច KasmVNC",
+    "Enable npdVNC Keyboard Shortcuts": "បើកផ្លូវកាត់ក្តារចុច npdVNC",
     "1 - Toggle Control Panel": "1 - បិទបើកផ្ទាំងបញ្ជា",
     "2 - Toggle Game Pointer Mode": "2 - បិទបើករបៀបទ្រនិចហ្គេម",
     "3 - Toggle Pointer Lock": "3 - បិទ/បើក ទ្រនិចចាក់សោ",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "កម្ពស់របៀបវីដេអូ៖",
     "Documentation": "ឯកសារ",
     "Drag Viewport": "ច្រកទិដ្ឋភាពអូស",
-    "KasmVNC encountered an error:": "KasmVNC បានជួបប្រទះបញ្ហាមួយ៖"
+    "npdVNC encountered an error:": "npdVNC បានជួបប្រទះបញ្ហាមួយ៖"
 }

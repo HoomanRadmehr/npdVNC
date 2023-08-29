@@ -260,8 +260,8 @@ msgstr "নেটিভ রেজোলিউশন রেন্ডার কর
 msgid "Keyboard Shortcuts"
 msgstr "কীবোর্ড শর্টকাট"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "KasmVNC কীবোর্ড শর্টকাট সক্ষম করুন"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "npdVNC কীবোর্ড শর্টকাট সক্ষম করুন"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - কন্ট্রোল প্যানেল টগল করুন"
@@ -350,5 +350,5 @@ msgstr "ডকুমেন্টেশন"
 msgid "Drag Viewport"
 msgstr "ভিউপোর্ট টানুন"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC একটি ত্রুটির সম্মুখীন হয়েছে:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC একটি ত্রুটির সম্মুখীন হয়েছে:"

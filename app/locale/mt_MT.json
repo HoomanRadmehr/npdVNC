@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Aqleb il-Panew tal-Kontroll permezz tat-Tasti",
     "Render Native Resolution": "Irrendi Riżoluzzjoni Nattiva",
     "Keyboard Shortcuts": "Shortcuts tat-Tastiera",
-    "Enable KasmVNC Keyboard Shortcuts": "Ippermetti KasmVNC Shortcuts tat-Tastiera",
+    "Enable npdVNC Keyboard Shortcuts": "Ippermetti npdVNC Shortcuts tat-Tastiera",
     "1 - Toggle Control Panel": "1 - Toggle Control Panel",
     "2 - Toggle Game Pointer Mode": "2 - Toggle Game Pointer Mode",
     "3 - Toggle Pointer Lock": "3 - Toggle Pointer Lock",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Għoli tal-Modalità Video:",
     "Documentation": "Dokumentazzjoni",
     "Drag Viewport": "Dragg Viewport",
-    "KasmVNC encountered an error:": "KasmVNC iltaqa' ma' żball:"
+    "npdVNC encountered an error:": "npdVNC iltaqa' ma' żball:"
 }

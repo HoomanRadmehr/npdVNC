@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Toggle Control Panel ka Keystrokes",
     "Render Native Resolution": "Fana ka Qeto ea Naha",
     "Keyboard Shortcuts": "Likhaoletso tsa Keyboard",
-    "Enable KasmVNC Keyboard Shortcuts": "Lumella likhutšoane tsa keyboard ea KasmVNC",
+    "Enable npdVNC Keyboard Shortcuts": "Lumella likhutšoane tsa keyboard ea npdVNC",
     "1 - Toggle Control Panel": "1 - Toggle Control Panel",
     "2 - Toggle Game Pointer Mode": "2 - Toggle Game Pointer Mode",
     "3 - Toggle Pointer Lock": "3 - Toggle Pointer Lock",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Boemo ba Mokhoa oa Video:",
     "Documentation": "Litokomane",
     "Drag Viewport": "Hula Viewport",
-    "KasmVNC encountered an error:": "KasmVNC e fumane phoso:"
+    "npdVNC encountered an error:": "npdVNC e fumane phoso:"
 }

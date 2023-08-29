@@ -260,8 +260,8 @@ msgstr "Render Native Resolution"
 msgid "Keyboard Shortcuts"
 msgstr "ﺪﯿﻠﮐ ﻪﺤﻔﺻ ﯼﺎﻫﺮﺒﻧﺎﯿﻣ"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "KasmVNC ﺪﯿﻠﮐ ﻪﺤﻔﺻ ﯼﺎﻫﺮﺒﻧﺎﯿﻣ ﻥﺩﺮﮐ ﻝﺎﻌﻓ"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "npdVNC ﺪﯿﻠﮐ ﻪﺤﻔﺻ ﯼﺎﻫﺮﺒﻧﺎﯿﻣ ﻥﺩﺮﮐ ﻝﺎﻌﻓ"
 
 msgid "1 - Toggle Control Panel"
 msgstr "ﺪﯿﻫﺩ ﺮﯿﯿﻐﺗ ﺍﺭ ﻞﻨﭘ ﻝﺮﺘﻨﮐ - 1"
@@ -350,5 +350,5 @@ msgstr "ﺕﺍﺪﻨﺘﺴﻣ"
 msgid "Drag Viewport"
 msgstr "ﺕﺭﻮﭙﯾﺎﻤﻧ ﮒﺭﺩ"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC ﺪﺷ ﻪﺟﺍﻮﻣ ﺎﻄﺧ ﮏﯾ ﺎﺑ:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC ﺪﺷ ﻪﺟﺍﻮﻣ ﺎﻄﺧ ﮏﯾ ﺎﺑ:"

@@ -260,8 +260,8 @@ msgstr "मूलनिवासी संकल्प प्रस्तुत 
 msgid "Keyboard Shortcuts"
 msgstr "कुंजीपटल अल्प मार्ग"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "KasmVNC कीबोर्ड शॉर्टकट सक्षम करें"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "npdVNC कीबोर्ड शॉर्टकट सक्षम करें"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - टॉगल कंट्रोल पैनल"
@@ -350,5 +350,5 @@ msgstr "दस्तावेज़ीकरण"
 msgid "Drag Viewport"
 msgstr "व्यूपोर्ट खींचें"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC में एक त्रुटि आई:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC में एक त्रुटि आई:"

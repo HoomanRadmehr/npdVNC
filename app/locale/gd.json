@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Tog Pannal Smachd tro Keystrokes",
     "Render Native Resolution": "Render Resolution",
     "Keyboard Shortcuts": "Ath-ghoiridean meur-chlàr",
-    "Enable KasmVNC Keyboard Shortcuts": "Cuir an comas ath-ghoiridean meur-chlàr KasmVNC",
+    "Enable npdVNC Keyboard Shortcuts": "Cuir an comas ath-ghoiridean meur-chlàr npdVNC",
     "1 - Toggle Control Panel": "1 - Tog Pannal Smachd",
     "2 - Toggle Game Pointer Mode": "2 - Toggle Game Pointer Mode",
     "3 - Toggle Pointer Lock": "3 - Tog glas puinger",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Àrd modh bhidio:",
     "Documentation": "Sgrìobhainn",
     "Drag Viewport": "Slaod am port-seallaidh",
-    "KasmVNC encountered an error:": "Thachair KasmVNC ri mearachd:"
+    "npdVNC encountered an error:": "Thachair npdVNC ri mearachd:"
 }

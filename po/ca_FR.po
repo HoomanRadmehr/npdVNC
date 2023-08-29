@@ -260,8 +260,8 @@ msgstr "Representa la resolució nativa"
 msgid "Keyboard Shortcuts"
 msgstr "Dreceres de teclat"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Activa les dreceres de teclat de KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Activa les dreceres de teclat de npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Canvia el tauler de control"
@@ -350,5 +350,5 @@ msgstr "Documentació"
 msgid "Drag Viewport"
 msgstr "Arrossegar la finestra gràfica"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC ha trobat un error:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC ha trobat un error:"

@@ -260,8 +260,8 @@ msgstr "ﻝﻮﮐ ﯤﺪﻧﺍړﻭ ﻞﺣ ﻲﻠﺻﺍ ﺩ"
 msgid "Keyboard Shortcuts"
 msgstr "ﻪﻧﻮټﮐ ټﺭﺎﺷ ډﺭﻮﺑ ﯽﮐ"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "KasmVNC ﺉړﮐ ﻝﺎﻌﻓ ﻪﻧﻮټﮐ ټﺭﺎﺷ ډﺭﻮﺑ ﯽﮐ"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "npdVNC ﺉړﮐ ﻝﺎﻌﻓ ﻪﻧﻮټﮐ ټﺭﺎﺷ ډﺭﻮﺑ ﯽﮐ"
 
 msgid "1 - Toggle Control Panel"
 msgstr "ﺉړﮐ ﻝﺪﺑ ﻞﻨﯿﭘ ﻝﻭﺮټﻨﮐ ﺩ - 1"
@@ -350,5 +350,5 @@ msgstr "ﺩﺎﻨﺳﺍ"
 msgid "Drag Viewport"
 msgstr "ګﯾﺭډ ﺪﯿﻟ ﺪﯿﻟ ﺩ"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC ﻮﺷ ﺦﻣ ﻩﺮﺳ ﯥﻨﺗﻭﺮﯧﺗ ﯤﻮﯾ ﺩ:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC ﻮﺷ ﺦﻣ ﻩﺮﺳ ﯥﻨﺗﻭﺮﯧﺗ ﯤﻮﯾ ﺩ:"

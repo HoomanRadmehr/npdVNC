@@ -408,8 +408,8 @@ msgstr "Renderuj rozdzielczość natywną"
 msgid "Keyboard Shortcuts"
 msgstr "Skróty klawiszowe"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Włącz skróty klawiaturowe KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Włącz skróty klawiaturowe npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Przełącz panel sterowania"
@@ -498,5 +498,5 @@ msgstr "Dokumentacja"
 msgid "Drag Viewport"
 msgstr "Przeciągnij rzutnię"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC napotkał błąd:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC napotkał błąd:"

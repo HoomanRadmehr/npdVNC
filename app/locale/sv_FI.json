@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Växla kontrollpanelen via tangenttryckningar",
     "Render Native Resolution": "Render Native Resolution",
     "Keyboard Shortcuts": "Tangentbordsgenvägar",
-    "Enable KasmVNC Keyboard Shortcuts": "Aktivera KasmVNC tangentbordsgenvägar",
+    "Enable npdVNC Keyboard Shortcuts": "Aktivera npdVNC tangentbordsgenvägar",
     "1 - Toggle Control Panel": "1 - Växla kontrollpanelen",
     "2 - Toggle Game Pointer Mode": "2 - Växla spelpekarläge",
     "3 - Toggle Pointer Lock": "3 - Toggle Pointer Lock",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Videolägeshöjd:",
     "Documentation": "Dokumentation",
     "Drag Viewport": "Dra Viewport",
-    "KasmVNC encountered an error:": "KasmVNC stötte på ett fel:"
+    "npdVNC encountered an error:": "npdVNC stötte på ett fel:"
 }

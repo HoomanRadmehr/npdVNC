@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Lülita juhtpaneeli klahvivajutuste kaudu sisse",
     "Render Native Resolution": "Render Native Resolution",
     "Keyboard Shortcuts": "Klaviatuuri otseteed",
-    "Enable KasmVNC Keyboard Shortcuts": "KasmVNC kiirklahvide lubamine",
+    "Enable npdVNC Keyboard Shortcuts": "npdVNC kiirklahvide lubamine",
     "1 - Toggle Control Panel": "1 – juhtpaneeli sisse- ja väljalülitamine",
     "2 - Toggle Game Pointer Mode": "2 - Mängu osuti režiimi sisse- ja väljalülitamine",
     "3 - Toggle Pointer Lock": "3 – Lülita kursori lukustus sisse",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Videorežiimi kõrgus:",
     "Documentation": "Dokumentatsioon",
     "Drag Viewport": "Lohistamisvaade",
-    "KasmVNC encountered an error:": "KasmVNC-s ilmnes viga:"
+    "npdVNC encountered an error:": "npdVNC-s ilmnes viga:"
 }

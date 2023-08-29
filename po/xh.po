@@ -260,8 +260,8 @@ msgstr "Nikela iSigqibo seNdawo"
 msgid "Keyboard Shortcuts"
 msgstr "Iindlela ezimfutshane zekhibhodi"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Yenza i-KasmVNC Iindlela ezimfutshane zekhibhodi"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Yenza i-npdVNC Iindlela ezimfutshane zekhibhodi"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1-Guqula iPhaneli yoLawulo"
@@ -350,5 +350,5 @@ msgstr "Amaxwebhu"
 msgid "Drag Viewport"
 msgstr "Thatha indawo yokujonga"
 
-msgid "KasmVNC encountered an error:"
-msgstr "I-KasmVNC ifumene impazamo:"
+msgid "npdVNC encountered an error:"
+msgstr "I-npdVNC ifumene impazamo:"

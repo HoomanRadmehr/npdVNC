@@ -364,8 +364,8 @@ msgstr "渲染本机分辨率"
 msgid "Keyboard Shortcuts"
 msgstr "键盘快捷键"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "启用 KasmVNC 键盘快捷键"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "启用 npdVNC 键盘快捷键"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - 切换控制面板"
@@ -454,5 +454,5 @@ msgstr "文档"
 msgid "Drag Viewport"
 msgstr "拖动视口"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC 遇到错误："
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC 遇到错误："

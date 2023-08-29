@@ -260,8 +260,8 @@ msgstr "Ներկայացնել հայրենի բանաձեւը"
 msgid "Keyboard Shortcuts"
 msgstr "Ստեղնաշարի դյուրանցումներ"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Միացնել KasmVNC ստեղնաշարի դյուրանցումները"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Միացնել npdVNC ստեղնաշարի դյուրանցումները"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - միացնել կառավարման վահանակը"
@@ -350,5 +350,5 @@ msgstr "Փաստաթղթեր"
 msgid "Drag Viewport"
 msgstr "Քաշել տեսադաշտը"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC-ն սխալ է հանդիպել."
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC-ն սխալ է հանդիպել."

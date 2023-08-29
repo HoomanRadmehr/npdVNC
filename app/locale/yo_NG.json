@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Yi Panel Iṣakoso Lọ nipasẹ Awọn bọtini bọtini",
     "Render Native Resolution": "Ṣe Ipinnu Ilu abinibi",
     "Keyboard Shortcuts": "Awọn ọna abuja keyboard",
-    "Enable KasmVNC Keyboard Shortcuts": "Mu awọn ọna abuja Keyboard KasmVNC ṣiṣẹ",
+    "Enable npdVNC Keyboard Shortcuts": "Mu awọn ọna abuja Keyboard npdVNC ṣiṣẹ",
     "1 - Toggle Control Panel": "1 - Panel Iṣakoso Yipada",
     "2 - Toggle Game Pointer Mode": "2 - Yipada Ipo Atọka Ere",
     "3 - Toggle Pointer Lock": "3 - Titiipa Atọka Yipada",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Ipo Fidio Giga:",
     "Documentation": "Iwe iwe",
     "Drag Viewport": "Fa Wiwo",
-    "KasmVNC encountered an error:": "KasmVNC pade aṣiṣe kan:"
+    "npdVNC encountered an error:": "npdVNC pade aṣiṣe kan:"
 }

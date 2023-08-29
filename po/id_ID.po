@@ -260,8 +260,8 @@ msgstr "Buat Resolusi Asli"
 msgid "Keyboard Shortcuts"
 msgstr "Pintasan Keyboard"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "Aktifkan Pintasan Keyboard KasmVNC"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "Aktifkan Pintasan Keyboard npdVNC"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Alihkan Panel Kontrol"
@@ -350,5 +350,5 @@ msgstr "Dokumentasi"
 msgid "Drag Viewport"
 msgstr "Seret Area Pandang"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC mengalami kesalahan:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC mengalami kesalahan:"

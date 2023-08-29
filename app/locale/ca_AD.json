@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Canvia el tauler de control mitjançant les pulsacions de tecles",
     "Render Native Resolution": "Representa la resolució nativa",
     "Keyboard Shortcuts": "Dreceres de teclat",
-    "Enable KasmVNC Keyboard Shortcuts": "Activa les dreceres de teclat de KasmVNC",
+    "Enable npdVNC Keyboard Shortcuts": "Activa les dreceres de teclat de npdVNC",
     "1 - Toggle Control Panel": "1 - Canvia el tauler de control",
     "2 - Toggle Game Pointer Mode": "2 - Canvia el mode de punter de joc",
     "3 - Toggle Pointer Lock": "3 - Commuta el bloqueig del punter",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Alçada del mode de vídeo:",
     "Documentation": "Documentació",
     "Drag Viewport": "Arrossegar la finestra gràfica",
-    "KasmVNC encountered an error:": "KasmVNC ha trobat un error:"
+    "npdVNC encountered an error:": "npdVNC ha trobat un error:"
 }

@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "תושקה תועצמאב הרקבה חול תפלחה",
     "Render Native Resolution": "תירוקמ היצולוזר דוביע",
     "Keyboard Shortcuts": "תדלקמב ךרד ירוציק",
-    "Enable KasmVNC Keyboard Shortcuts": "KasmVNC לש םישקמ ירוציק לעפה",
+    "Enable npdVNC Keyboard Shortcuts": "npdVNC לש םישקמ ירוציק לעפה",
     "1 - Toggle Control Panel": "הרקבה חול תא ףלחה - 1",
     "2 - Toggle Game Pointer Mode": "קחשמ עיבצמ בצמ ףלחה - 2",
     "3 - Toggle Pointer Lock": "עיבצמ תליענ תפלחה - 3",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "ואדיו בצמ הבוג",
     "Documentation": "דועית",
     "Drag Viewport": "טבמ תדוקנ רורג",
-    "KasmVNC encountered an error:": "KasmVNC האיגשב לקתנ:"
+    "npdVNC encountered an error:": "npdVNC האיגשב לקתנ:"
 }

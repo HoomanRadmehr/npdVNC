@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "കീസ്ട്രോക്കുകൾ വഴി നിയന്ത്രണ പാനൽ മാറ്റുക",
     "Render Native Resolution": "റെൻഡർ നേറ്റീവ് റെസല്യൂഷൻ",
     "Keyboard Shortcuts": "കീബോർഡ് കുറുക്കുവഴികൾ",
-    "Enable KasmVNC Keyboard Shortcuts": "KasmVNC കീബോർഡ് കുറുക്കുവഴികൾ പ്രവർത്തനക്ഷമമാക്കുക",
+    "Enable npdVNC Keyboard Shortcuts": "npdVNC കീബോർഡ് കുറുക്കുവഴികൾ പ്രവർത്തനക്ഷമമാക്കുക",
     "1 - Toggle Control Panel": "1 - നിയന്ത്രണ പാനൽ ടോഗിൾ ചെയ്യുക",
     "2 - Toggle Game Pointer Mode": "2 - ഗെയിം പോയിന്റർ മോഡ് ടോഗിൾ ചെയ്യുക",
     "3 - Toggle Pointer Lock": "3 - ടോഗിൾ പോയിന്റർ ലോക്ക്",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "വീഡിയോ മോഡ് ഉയരം:",
     "Documentation": "പ്രമാണീകരണം",
     "Drag Viewport": "വ്യൂപോർട്ട് വലിച്ചിടുക",
-    "KasmVNC encountered an error:": "KasmVNC ഒരു പിശക് നേരിട്ടു:"
+    "npdVNC encountered an error:": "npdVNC ഒരു പിശക് നേരിട്ടു:"
 }

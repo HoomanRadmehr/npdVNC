@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Wissel beheerpaneel via toetsaanslagen",
     "Render Native Resolution": "Lewer oorspronklike resolusie",
     "Keyboard Shortcuts": "Sleutelbord kortpaaie",
-    "Enable KasmVNC Keyboard Shortcuts": "Aktiveer KasmVNC-sleutelbordkortpaaie",
+    "Enable npdVNC Keyboard Shortcuts": "Aktiveer npdVNC-sleutelbordkortpaaie",
     "1 - Toggle Control Panel": "1 - Wissel beheerpaneel",
     "2 - Toggle Game Pointer Mode": "2 - Wissel spelwysermodus",
     "3 - Toggle Pointer Lock": "3 - Wissel wyserslot",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Videomodus Hoogte:",
     "Documentation": "Dokumentasie",
     "Drag Viewport": "Sleep Viewport",
-    "KasmVNC encountered an error:": "KasmVNC het 'n fout teëgekom:"
+    "npdVNC encountered an error:": "npdVNC het 'n fout teëgekom:"
 }

@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Toggle Control Panel amin'ny alalan'ny Keystrokes",
     "Render Native Resolution": "Render Native Resolution",
     "Keyboard Shortcuts": "Shortcuts keyboard",
-    "Enable KasmVNC Keyboard Shortcuts": "Avelao ny KasmVNC Keyboard Shortcuts",
+    "Enable npdVNC Keyboard Shortcuts": "Avelao ny npdVNC Keyboard Shortcuts",
     "1 - Toggle Control Panel": "1 - Toggle Control Panel",
     "2 - Toggle Game Pointer Mode": "2 - Toggle Game Pointer Mode",
     "3 - Toggle Pointer Lock": "3 - Toggle Pointer Lock",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Haavo maodely video:",
     "Documentation": "Dokumentation",
     "Drag Viewport": "Drag Viewport",
-    "KasmVNC encountered an error:": "Nahita hadisoana ny KasmVNC:"
+    "npdVNC encountered an error:": "Nahita hadisoana ny npdVNC:"
 }

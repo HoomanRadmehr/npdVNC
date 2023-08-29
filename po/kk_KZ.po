@@ -260,8 +260,8 @@ msgstr "Негізгі ажыратымдылықты көрсету"
 msgid "Keyboard Shortcuts"
 msgstr "Пернелер тіркесімі"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "KasmVNC пернелер тіркесімін қосу"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "npdVNC пернелер тіркесімін қосу"
 
 msgid "1 - Toggle Control Panel"
 msgstr "1 - Басқару тақтасын ауыстыру"
@@ -350,5 +350,5 @@ msgstr "Құжаттама"
 msgid "Drag Viewport"
 msgstr "Көру алаңын сүйреу"
 
-msgid "KasmVNC encountered an error:"
-msgstr "KasmVNC қатеге тап болды:"
+msgid "npdVNC encountered an error:"
+msgstr "npdVNC қатеге тап болды:"

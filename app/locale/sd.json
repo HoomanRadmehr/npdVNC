@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "ﻮﻳﺮڪ ﻞﮔﻮٽ ﻲﮐ ﻞﻨﻴﭘ ﻝﻭﺮٽﻨڪ ﻲﻌﻳﺭﺫ ڪﻭﺮٽﺳﺍ ﻲڪ",
     "Render Native Resolution": "ﻮﻳﺮڪ ﺶﻴﭘ ﺩﺍﺩﺭﺍﺮﻗ ﻲﻣﺎﻘﻣ",
     "Keyboard Shortcuts": "ﺲٽڪ ٽﺭﺎﺷ ڊﺭﻮﺑ ﻲڪ",
-    "Enable KasmVNC Keyboard Shortcuts": "KasmVNC ﻮﻳﺮڪ ﻝﺎﻌﻓ ﻲﮐ ﺲٽڪ ٽﺭﺎﺷ ڊﺭﻮﺑ ﻲڪ",
+    "Enable npdVNC Keyboard Shortcuts": "npdVNC ﻮﻳﺮڪ ﻝﺎﻌﻓ ﻲﮐ ﺲٽڪ ٽﺭﺎﺷ ڊﺭﻮﺑ ﻲڪ",
     "1 - Toggle Control Panel": "ﻮﻳﺮڪ ﻞﮔﻮٽ ﻲﮐ ﻞﻨﻴﭘ ﻝﻭﺮٽﻨڪ - 1",
     "2 - Toggle Game Pointer Mode": "ڊﻮﻣ ﺮٽﻨﺋﺍﻮﭘ ﻢﻴﮔ ﻞﮔﻮٽ - 2",
     "3 - Toggle Pointer Lock": "ڪﻻ﻿ ﺮٽﻨﺋﺍﻮﭘ ﻞﮔﻮٽ - 3",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "ﻲﺋﺎﭽﻧﻭﺍ ڊﻮﻣ ﻮﻳڊﻭ",
     "Documentation": "ﺰﻳﻭﺎﺘﺳﺩ",
     "Drag Viewport": "ٽﺭﻮﭘ ﻮﺌﻳڏ ﻮﻳڏﮀ",
-    "KasmVNC encountered an error:": "KasmVNC ﻮﻴڪ ﻦﻬﻨﻣ ﻥﺎﺳ ﻲﻄﻠﻏ ڪﻫ:"
+    "npdVNC encountered an error:": "npdVNC ﻮﻴڪ ﻦﻬﻨﻣ ﻥﺎﺳ ﻲﻄﻠﻏ ڪﻫ:"
 }

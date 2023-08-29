@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "Tụgharịa Ogwe njikwa site na igodo igodo",
     "Render Native Resolution": "Mepụta mkpebi obodo",
     "Keyboard Shortcuts": "Ụzọ mkpirisi ahụigodo",
-    "Enable KasmVNC Keyboard Shortcuts": "Kwado ụzọ mkpirisi ahụigodo KasmVNC",
+    "Enable npdVNC Keyboard Shortcuts": "Kwado ụzọ mkpirisi ahụigodo npdVNC",
     "1 - Toggle Control Panel": "1 - Gbanwee Ogwe njikwa",
     "2 - Toggle Game Pointer Mode": "2 - Gbanwee ụkpụrụ ntụnye egwuregwu",
     "3 - Toggle Pointer Lock": "3 - Gbanwee mkpọchi ntụnye",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "Ụdị vidiyo dị elu:",
     "Documentation": "Akwụkwọ",
     "Drag Viewport": "Dọrọ nlegharị anya",
-    "KasmVNC encountered an error:": "KasmVNC zutere mperi:"
+    "npdVNC encountered an error:": "npdVNC zutere mperi:"
 }

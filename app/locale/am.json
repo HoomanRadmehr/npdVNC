@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "የቁጥጥር ፓነልን በቁልፍ ጭነቶች ቀይር",
     "Render Native Resolution": "ቤተኛ መፍትሄ ስጥ",
     "Keyboard Shortcuts": "የቁልፍ ሰሌዳ አቋራጮች",
-    "Enable KasmVNC Keyboard Shortcuts": "KasmVNC ቁልፍ ሰሌዳ አቋራጮችን አንቃ",
+    "Enable npdVNC Keyboard Shortcuts": "npdVNC ቁልፍ ሰሌዳ አቋራጮችን አንቃ",
     "1 - Toggle Control Panel": "1 - የቁጥጥር ፓነልን ቀይር",
     "2 - Toggle Game Pointer Mode": "2 - የጨዋታ ጠቋሚ ሁነታን ቀይር",
     "3 - Toggle Pointer Lock": "3 - የጠቋሚ መቆለፊያን ቀይር",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "የቪዲዮ ሁነታ ቁመት:",
     "Documentation": "ሰነድ",
     "Drag Viewport": "መመልከቻ ጎትት",
-    "KasmVNC encountered an error:": "KasmVNC ስህተት አጋጥሞታል::"
+    "npdVNC encountered an error:": "npdVNC ስህተት አጋጥሞታል::"
 }

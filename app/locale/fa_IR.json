@@ -86,7 +86,7 @@
     "Toggle Control Panel via Keystrokes": "ﺪﯿﻠﮐ ﻥﺩﺍﺩ ﺭﺎﺸﻓ ﻖﯾﺮﻃ ﺯﺍ ﻞﻨﭘ ﻝﺮﺘﻨﮐ ﺮﯿﯿﻐﺗ",
     "Render Native Resolution": "Render Native Resolution",
     "Keyboard Shortcuts": "ﺪﯿﻠﮐ ﻪﺤﻔﺻ ﯼﺎﻫﺮﺒﻧﺎﯿﻣ",
-    "Enable KasmVNC Keyboard Shortcuts": "KasmVNC ﺪﯿﻠﮐ ﻪﺤﻔﺻ ﯼﺎﻫﺮﺒﻧﺎﯿﻣ ﻥﺩﺮﮐ ﻝﺎﻌﻓ",
+    "Enable npdVNC Keyboard Shortcuts": "npdVNC ﺪﯿﻠﮐ ﻪﺤﻔﺻ ﯼﺎﻫﺮﺒﻧﺎﯿﻣ ﻥﺩﺮﮐ ﻝﺎﻌﻓ",
     "1 - Toggle Control Panel": "ﺪﯿﻫﺩ ﺮﯿﯿﻐﺗ ﺍﺭ ﻞﻨﭘ ﻝﺮﺘﻨﮐ - 1",
     "2 - Toggle Game Pointer Mode": "ﯼﺯﺎﺑ ﺮﮕﻧﺎﺸﻧ ﺖﻟﺎﺣ ﺮﯿﯿﻐﺗ - 2",
     "3 - Toggle Pointer Lock": "ﺪﯿﻫﺩ ﺮﯿﯿﻐﺗ ﺍﺭ ﺮﮕﻧﺎﺸﻧ ﻞﻔﻗ - 3",
@@ -116,5 +116,5 @@
     "Video Mode Height:": "ﻮﺋﺪﯾﻭ ﺖﻟﺎﺣ ﻉﺎﻔﺗﺭﺍ",
     "Documentation": "ﺕﺍﺪﻨﺘﺴﻣ",
     "Drag Viewport": "ﺕﺭﻮﭙﯾﺎﻤﻧ ﮒﺭﺩ",
-    "KasmVNC encountered an error:": "KasmVNC ﺪﺷ ﻪﺟﺍﻮﻣ ﺎﻄﺧ ﮏﯾ ﺎﺑ:"
+    "npdVNC encountered an error:": "npdVNC ﺪﺷ ﻪﺟﺍﻮﻣ ﺎﻄﺧ ﮏﯾ ﺎﺑ:"
 }

@@ -374,8 +374,8 @@ msgstr "「ネイティブ解像度をレンダリング」"
 msgid "Keyboard Shortcuts"
 msgstr "キーボードショートカット"
 
-msgid "Enable KasmVNC Keyboard Shortcuts"
-msgstr "「KasmVNC キーボード ショートカットを有効にする」"
+msgid "Enable npdVNC Keyboard Shortcuts"
+msgstr "「npdVNC キーボード ショートカットを有効にする」"
 
 msgid "1 - Toggle Control Panel"
 msgstr "「1 - コントロール パネルの切り替え」"
@@ -464,5 +464,5 @@ msgstr "ドキュメンテーション"
 msgid "Drag Viewport"
 msgstr "「ビューポートをドラッグ」"
 
-msgid "KasmVNC encountered an error:"
-msgstr "「KasmVNC でエラーが発生しました:」"
+msgid "npdVNC encountered an error:"
+msgstr "「npdVNC でエラーが発生しました:」"
